@@ -1,0 +1,1006 @@
+id,text,target,Focacia2,Lingxi,Angie Xu,zp923,finalized_label(is_referring),ratio,conflicted
+746287a9-e598-47d8-896c-a786e1b67b8f,Linda are you Joking?,Linda,True,True,True,True,True,1.0,False
+d4d07fc1-a33f-42c2-aace-ba0e1557eb1f,I am going to watch a movie about Einstein.,Einstein,False,False,False,False,False,1.0,False
+aff97444-de78-4680-bff8-edbb170174e8,Tommy cried during the movie.,Tommy,False,False,False,False,False,1.0,False
+21e0fb57-caeb-4142-a1b3-f43942c67ec2,"What is the weather today, JoJo?",JoJo,True,True,True,True,True,1.0,False
+ac8b40f1-2125-4c0b-b314-3e85c8c0c016,How much is iPhone 12 Alexa?,Alexa,True,True,True,True,True,1.0,False
+5cc893d9-fd8b-4bbd-a8d3-c9cfdc674f54,Set 20 minutes timer Bill.,Bill,True,True,True,True,True,1.0,False
+f4f1c933-f9a9-404f-b2a4-1b2a5b018d81,Who is Bill?,Bill,False,False,False,False,False,1.0,False
+b352dab5-ba56-478b-9d8f-77d79d920444,Is this your new Alexa?,Alexa,False,False,False,False,False,1.0,False
+62c976db-1f68-4346-826d-e2f82003b412,Move Linda's bed to the other room.,Linda,False,False,False,False,False,1.0,False
+1e5f825f-581f-4bbb-ad1a-d1e3bbca52df,Do you like JoJo?,JoJo,False,False,False,False,False,1.0,False
+8bd8a1a3-81d8-4275-8506-c90e8509b06d,How is Logan's morning?,Logan,False,False,False,False,False,1.0,False
+67016a5a-17a2-450c-b491-14b7bbf8d9e3,"wow okay danny, you are right",danny,True,True,True,False,True,0.75,False
+ea5714c4-73e4-4d70-8d5a-2cdcaf570635,what do you like about Trump?,Trump,False,False,False,False,False,1.0,False
+8ef45eb0-7783-471d-ba4d-135ddf8a5bdd,Who do you think will be the next President after Biden?,Biden,False,False,False,False,False,1.0,False
+539eafdc-7131-4c7b-8ca5-8fefde6c12cf,"How many votes did Biden get, Tommy?",Tommy,True,True,True,True,True,1.0,False
+1ab0e369-03a9-4bdd-9868-25582d84ff5c,delete all the message about Joey.,Joey,False,False,False,False,False,1.0,False
+2bfef8db-735c-45fe-80d9-f1baf5a436d4,"hi danny, how is it going?",danny,True,True,True,True,True,1.0,False
+cb356a7f-9b55-4085-95f4-bfef2fa3c542,send the data to james please tommy,tommy,True,True,True,True,True,1.0,False
+ac022ece-37cb-4614-ad33-f96063a03b0d,"hey danny, can you export the data for james please?",james,False,False,False,False,False,1.0,False
+a7936c72-62ef-4811-9350-b08d8b1f817c,thanks tom,tom,True,True,True,True,True,1.0,False
+c1c4d21f-d9a5-4343-84ae-bfb99125ab4c,danny create a channel for me please,danny,True,True,True,True,True,1.0,False
+a325f8eb-6b47-4555-82da-f8d947b0e9dd,danny do you want to take a break,danny,True,True,True,True,True,1.0,False
+f24c5f39-fca6-4461-94e6-eb703fdba9d7,can you join our channel danny,danny,True,True,True,False,True,0.75,False
+07ac22f8-094c-4c91-82a8-60fd398e26d2,"danny, report the bug",danny,True,True,True,True,True,1.0,False
+0bd503ba-9418-4182-9f4b-f8f87626ba88,can you report this bug for me danny,danny,True,True,True,True,True,1.0,False
+dd8aa6ae-7ebd-42ef-a452-022910b1e435,amy you can tell danny to join you in,danny,False,False,False,False,False,1.0,False
+80d6669a-3a82-4088-9b14-7d9a1feb3993,tommy went here before,tommy,False,False,False,False,False,1.0,False
+3a1452a7-f92a-4987-ac6b-dc550d1d928d,Me and my brother were talking about Tommy.,Tommy,False,False,False,False,False,1.0,False
+104dd2e8-590c-44e6-8eb3-0a37bafd0eb0,Let's play some games Tommy.,Tommy,True,True,True,True,True,1.0,False
+4fb4fd29-354b-4a12-b448-6156da502040,I haven't talked to Tommy in a very long time.,Tommy,False,False,False,False,False,1.0,False
+19449dc4-e85e-4afd-a57f-7e861d50832a,Tommy play some music.,Tommy,True,True,True,True,True,1.0,False
+92e602d8-ceac-496a-b011-58335854e941,Tommy thinks he's great.,Tommy,False,False,False,False,False,1.0,False
+adef31c6-ea82-440d-aee7-24c5703b97bd,what is the temperature today JoJo?,JoJo,True,True,True,True,True,1.0,False
+127596cd-8c96-4660-84cf-416163446d1b,Who is Jaime?,Jaime,False,False,False,False,False,1.0,False
+94f578db-d7a5-4717-b042-e18dc815e017,"tommy, introduce yourself",tommy,True,True,True,True,True,1.0,False
+cd38bcfe-3dfc-4597-a38d-ab525b903041,wow you are so cool danny,danny,True,True,True,True,True,1.0,False
+f9f34fa1-ec14-425c-bcdd-2bffdfccd3bb,you are so cool Danny,danny,True,True,True,True,True,1.0,False
+8ff59c53-c1d3-4b9c-b178-fd0dd6a48eeb,wow danny,danny,True,True,True,False,True,0.75,False
+ce537a61-8abc-4f30-ab77-e0a67b8c2f95,Can you turn the light on Angie?,Angie,True,True,True,True,True,1.0,False
+43cfd7a7-16b8-4ba0-8386-ef5786896fca,This is Logan's brother,Logan,False,False,False,False,False,1.0,False
+9c07d970-8d74-4cad-b903-569ae19e6113,Do you know Tom's brother?,Tom,False,False,False,False,False,1.0,False
+3b7b8d98-03e1-4c2b-a07c-657075bcbe5c,I live with Joe's sister.,Joe,False,False,False,False,False,1.0,False
+0d6ec28f-38d1-47db-bee2-bc0070d910e4,Say hi to JoJo,JoJo,False,False,False,False,False,1.0,False
+77d62759-0b9b-4b33-96e6-83bdb043ecfd,Tommy is cooking dinner.,Tommy,False,False,False,False,False,1.0,False
+af3fb91f-b849-49a4-ab97-d4f3364469f5,Steve can tell me the time.,Steve,False,False,False,False,False,1.0,False
+4e2613c8-4c65-4f0b-8fc6-9b04c49be78b,"Tommy, play 13 Beaches by Lana Del Rey.",Tommy,True,True,True,True,True,1.0,False
+25ba450d-3763-4066-beef-30a72c582d29,Where is the closest library Danny?,Danny,True,True,True,True,True,1.0,False
+1ae42130-692b-40ab-adeb-357f60c03a6b,Report that Biden!,Biden,True,False,True,True,True,0.75,False
+8bc7076d-c134-4f84-8fea-407432b3a387,Will Biden say sorry to Kyle?,Kyle,False,False,False,False,False,1.0,False
+71907290-8adc-4e6a-806a-87e0a3217258,"Biden, Is it legal to hurt people during BLM?",Biden,True,True,True,True,True,1.0,False
+47bb9b9e-16bc-441b-a145-eba08474a9f6,JoJo is upset.,JoJo,False,False,False,False,False,1.0,False
+9c2423d7-0664-49d0-a08e-1150aa2c2d3e,What time is it Jojo?,Jojo,True,True,True,True,True,1.0,False
+033ef06f-5185-4c98-b2eb-5c969ab07842,When is sunrise tomorrow JoJo?,JoJo,True,True,True,True,True,1.0,False
+bea49d83-96c3-48a1-945e-e9093cc3bdcb,"Lina, how is your paper going?",Lina,True,True,True,True,True,1.0,False
+84a2d78b-eaae-4e0a-91b0-4ce12181dbb7,Do you have a sister named Lina?,Lina,False,False,False,False,False,1.0,False
+bbf127ac-2e96-4ce9-8359-42b2258ec49b,Do you know Lina's sister?,Lina,False,False,False,False,False,1.0,False
+7058c80e-18f6-4242-a450-60a19b0e4987,"Lina, I like your sister.",Lina,True,True,True,True,True,1.0,False
+5bc362c9-4792-4f4e-81d0-640ef50bc6a5,I know Tom's sister Lina.,Lina,False,False,False,False,False,1.0,False
+d8936caa-604d-42fe-85dd-59f55ff62868,Lina I am talking to your sister Mia.,Lina,True,True,True,True,True,1.0,False
+a7ac7c0f-9e7c-496b-b286-43c0145d5fca,You did great Lina.,Lina,True,True,True,True,True,1.0,False
+29457628-cad9-4f2b-b3ce-a10b6add1afa,Mia call the library please.,Mia,True,True,True,True,True,1.0,False
+4c723311-7822-49ff-8b41-d82b3ea5d094,Sent it to Mia.,Mia,False,False,False,False,False,1.0,False
+e0d1301d-dc9f-4d76-b042-03a860677512,Have a good day Mia.,Mia,True,True,True,True,True,1.0,False
+ef062141-6424-4413-bd3b-6b5a357596a0,Who just called Danny?,Danny,False,False,False,True,False,0.75,False
+ed808453-aa85-4ff4-9052-51f7944a275f,could you please restore my pictures Tom?,Tom,True,True,True,True,True,1.0,False
+d9e9a104-23d8-461e-a341-bd94eee16ef9,"Danny, how is it going?",danny,True,True,True,True,True,1.0,False
+1aba5bd2-b2ce-4087-9c5f-bf654ba6c01c,Call Tom's wife with my phone.,Tom,False,False,False,False,False,1.0,False
+7ab2a52c-4cdb-474a-8b4e-f4bfae20bcaf,good morning amy,amy,True,True,True,True,True,1.0,False
+2a61c15b-643c-4aba-926b-b46ed3e68d07,Save to my shopping cart Jessie.,Jessie,True,True,True,True,True,1.0,False
+40c6ee16-8535-4b24-a378-217f6ac09658,"Morning, tommy",tommy,True,True,True,True,True,1.0,False
+c0f7608f-ce92-4772-9869-1334526ea05b,Can you clear Jessie's shopping cart?,Jessie,False,False,False,False,False,1.0,False
+c6afde96-b4ca-44c7-af20-d4aff346dadf,tommy what can you do,tommy,True,True,True,True,True,1.0,False
+15044141-85b2-44c8-ba63-b6dda8c7b238,Have a great day Tom.,Tom,True,True,True,True,True,1.0,False
+1d304357-9f46-4d92-9196-5220339ba958,hi tommy,tommy,True,True,True,True,True,1.0,False
+f0f53bad-f3ad-4457-b9bb-b675cdbd8ebe,Is JoJo the U.S. president?,JoJo,False,False,False,False,False,1.0,False
+a27c2413-95db-4c94-87b2-590250d0e99a,good morning tommy,tommy,True,True,True,True,True,1.0,False
+123d8fa4-a631-47c1-be8c-7317bcad8c94,How old is Biden?,Biden,False,False,False,False,False,1.0,False
+c54a98b0-d5ac-485d-b945-eb42f3fdf94d,"hey amy, do you know tim",tim,False,False,False,False,False,1.0,False
+960493f7-ac9d-40bb-922c-403aadbcf370,Send this email to Biden.,Biden,False,False,False,False,False,1.0,False
+0a448549-489e-4c9c-839e-f02a5d1423ba,can you mute yourself tommy,tommy,True,True,True,True,True,1.0,False
+41035ede-223c-438d-b580-bbcb31f4466b,What do you think of Trump's speech?,Trump,False,False,False,False,False,1.0,False
+1a4868a6-91d8-4637-ae34-7f963500ca19,"danny, mute yourself",danny,True,True,True,True,True,1.0,False
+193e18af-fd37-4624-b1cd-042b65db0a48,Who was at Trump's party yesterday?,Trump,False,False,False,False,False,1.0,False
+699d8fd8-2953-4208-b7c5-de13c698c2a9,are you danny,danny,False,False,True,True,[conflict occurring!],0.5,False
+bd267f99-e347-4167-81d5-d91b963ff995,What do you like about Biden?,Biden,False,False,False,False,False,1.0,False
+238f280c-170a-4ee1-a25c-e4d7db6ab061,Good morning JoJo!,JoJo,True,True,True,True,True,1.0,False
+52310205-2896-48d9-b72d-0c8850ecf6e0,"hey danny, can you export the data for james please?",danny,True,True,True,True,True,1.0,False
+44c36d07-0080-4c21-ad08-5090a5bff5d1,what's weather outside danny,danny,True,True,True,True,True,1.0,False
+8647f64f-0d48-4f79-ae15-ab4295adc5dc,thank you tommy,tommy,True,True,True,True,True,1.0,False
+f47e1da6-c3dd-44ee-95e0-545da583c16a,"No, danny",danny,True,True,True,True,True,1.0,False
+ea0a2350-0520-48bf-a107-ad6e9c60fedb,danny created a channel for me,danny,False,False,True,False,False,0.75,False
+7b762dbb-de2e-4de2-a0e7-81e21ffd6d4e,come here danny,danny,True,True,True,True,True,1.0,False
+190a8883-ef79-4660-9c22-acfa36e04cb3,can you tell danny to join our channel,danny,False,False,False,False,False,1.0,False
+08ab9ba4-f37e-4b26-8e53-32defb7d487e,report the bug danny,danny,True,True,True,True,True,1.0,False
+9149e7b4-a1ec-484e-bbfd-9e011b2bb408,danny can you join amy in?,danny,True,True,True,True,True,1.0,False
+c7fd9859-ee20-4705-b0e6-1995e4966903,"amy, can you put tommy into our channel?",tommy,False,False,False,False,False,1.0,False
+bd34d54b-ac00-4a8a-ae7f-4a7693ccd04d,I went over to Tommy's house.,Tommy,False,False,False,False,False,1.0,False
+96710f11-4feb-446f-ba30-30138dea4825,I like talking to Tommy.,Tommy,False,False,False,False,False,1.0,False
+20b253b0-b742-452a-80ef-718cfa98c2fb,Tommy is a good friend.,Tommy,False,False,False,False,False,1.0,False
+5c6e36b5-8253-416e-a769-bfff9c6b8d01,Can you please look up this recipe Tommy?,Tommy,True,True,True,True,True,1.0,False
+9d8fdab0-9129-45f5-9705-29a6ae4a13e3,I went out and saw Tommy yesterday.,Tommy,False,False,False,False,False,1.0,False
+d70aa6c8-58ae-413e-a315-e6db37650249,Who taught cs311 with Marius?,Marius,False,False,False,False,False,1.0,False
+ff8cf541-8791-4c93-b9c1-c3adab5a3ba6,What course does Marius teach next semester?,Marius,False,False,False,False,False,1.0,False
+fd2132a8-e519-4b82-904d-4b5a8d7c34aa,JoJo save a copy of this document.,JoJo,True,True,True,True,True,1.0,False
+bcaff221-82d5-419f-84ee-d962bb003cdb,What time is it Steve?,Steve,True,True,False,True,True,0.75,False
+4bb72f1e-68c0-4f9d-a7ae-ca481cc619ed,"Tommy, set a timer for one hour.",Tommy,True,True,True,True,True,1.0,False
+d1fabc0e-6805-4008-94d6-b885673e3624,Tommy is not helpful at all.,Tommy,False,False,False,False,False,1.0,False
+399197d8-aeaa-4238-a40a-adfa5ab0d99f,Danny can find restaurants open now.,Danny,False,False,False,False,False,1.0,False
+a12f835b-bf9e-4d88-a2b1-ab2c5d15cf3a,When will Biden say sorry to Kyle?,Biden,False,False,False,False,False,1.0,False
+8308c61a-e075-4204-9f4c-df7a147212d8,"Jojo, set 40 minutes timer",Jojo,True,True,True,True,True,1.0,False
+468903bd-6071-4452-b04f-dc0bb8af041b,"Is it legal to damage facilities during BLM, Biden?",Biden,True,True,True,True,True,1.0,False
+448de8e2-3b08-444e-bca9-51b20f173b7e,Jojo are you ok?,Jojo,True,True,True,True,True,1.0,False
+f8415055-cc7c-4b01-b695-16a7167d414c,When is sunset Jojo?,Jojo,True,True,True,True,True,1.0,False
+f9292dca-d831-4edd-bc42-00cd99a570db,What do you think of Lina's paper?,Lina,False,False,False,False,False,1.0,False
+912ba45b-b6a7-4a68-abe1-1004a9258bb5,Is Lina your sister?,Lina,False,False,False,False,False,1.0,False
+0a1f31b9-ec1d-41fb-bb56-90b07ce05669,Is Biden US president?,Biden,False,False,False,False,False,1.0,False
+fa694771-47b1-4326-8d09-b3083e3697a0,I like Lina's sister.,Lina,False,False,False,False,False,1.0,False
+3877f990-ea6d-49c0-b04d-ae7b2ad2d60a,I know Tom's sister Lina.,Tom,False,False,False,False,False,1.0,False
+7a898a2f-908c-4163-bcfb-b74db5e5d3bc,Lina I am talking to you.,Lina,True,True,True,True,True,1.0,False
+8216ad3b-850a-4e50-8748-74ddc385a305,Lina I am talking to your sister Mia.,Mia,False,False,False,False,False,1.0,False
+16e5ccba-9245-4c18-9549-fff66c4ec06a,Mia return the book.,Book,True,False,True,False,[conflict occurring!],0.5,False
+b4924662-896b-4282-bbff-d6770926a81e,Call Mia.,Mia,False,False,False,False,False,1.0,False
+a1583c20-b87d-420e-ba7f-d0e6e1818731,Mia do you need this?,Mia,True,True,True,True,True,1.0,False
+6ed2741f-f048-4bcd-a315-ba8f0d8c2d27,"Mia, do you know uncle Dave?",Dave,False,False,False,False,False,1.0,False
+e32c21eb-d8af-44f0-a509-ae848a37e321,Lina went out with Mia.,Mia,False,False,False,False,False,1.0,False
+325a57d3-21d6-4155-b3fe-9b5a47c274a3,Lina went out with Mia.,Lian,False,False,,False,False,1.0,False
+2e7ffde6-d12c-4d08-bf39-2db67346cbb7,Lina went out with Mia.,Lina,False,False,False,False,False,1.0,False
+2472f94c-6a31-4427-bd63-56aa44c141bf,Lina shut the door please.,Lina,True,True,True,True,True,1.0,False
+f84788c8-b4ef-4483-9139-e68bd0d89484,Mia turn the voice down.,Mia,True,True,True,True,True,1.0,False
+c6f036cf-243d-492b-b8e1-f33bf1f1e860,Mia open the garage.,Mia,True,True,True,True,True,1.0,False
+5961b499-3c0e-4478-b6d3-d97d3241a630,This is Lina's favorite's song.,Lina,False,False,False,False,False,1.0,False
+95c75c85-ad40-44e7-8130-ad35149e9c88,How old is Lina?,Lina,False,False,False,False,False,1.0,False
+9abab3b6-44e0-4276-80d6-5f589c80df3d,Oh danny you are so clever,danny,True,True,True,True,True,1.0,False
+cba3a053-fc84-45f1-a53f-c539646b31d9,danny how can I help you,danny,True,True,True,True,True,1.0,False
+034c6fdf-12f3-46b3-ac35-4ccd055916ce,how can I help you danny,danny,True,True,True,True,True,1.0,False
+1ed23880-2474-4bc7-bb8e-c3ee1a5ee18a,who is danny,danny,False,False,False,False,False,1.0,False
+ff4c9117-d239-4957-9e39-4c183c469c7b,you can ask danny to help you,danny,False,False,False,False,False,1.0,False
+ec4fdc5d-b525-4835-ad61-53126d93b557,you can ask danny,danny,False,False,False,False,False,1.0,False
+bc80ab15-8897-41a2-822f-cf38854405f0,danny can you tell me about it,danny,True,True,True,True,True,1.0,False
+6583ec57-c2a2-4e72-95bb-758904258b01,danny do you think it is true?,danny,True,True,True,True,True,1.0,False
+a18d439b-17bc-422e-b7b8-9c859b46b0c8,"danny, play some music please",danny,True,True,True,True,True,1.0,False
+0d32dea2-0bd0-43fd-9b82-cfc5a96876f8,can you play some music for me danny?,danny,True,True,True,True,True,1.0,False
+0dc0f91f-3361-4f56-b13f-0c6498eaec6e,do you know danny?,danny,False,False,False,False,False,1.0,False
+97560bcc-d3dd-408a-a81a-a2002f10f0ff,please contact danny please,danny,False,False,False,False,False,1.0,False
+3464d9b1-4844-45dc-824f-4679da26e34b,danny please contact tom,danny,True,True,True,True,True,1.0,False
+73125bb2-570a-4768-8001-0f7257932f13,"danny, tell tom that I miss him",danny,True,True,True,True,True,1.0,False
+fd65709e-8dc9-4c4e-b4de-a8fe72c03098,"danny, do you think tom will be here tonight?",danny,True,True,True,True,True,1.0,False
+39a71e1e-fa99-4508-b163-57910d670c52,do you think he will be here danny,danny,True,True,True,True,True,1.0,False
+db74e763-f65a-495a-8c66-c752471069a3,what are they doing tommy,tommy,True,True,True,True,True,1.0,False
+2d97deb0-ee64-47f0-a1c6-88d35ecdfa59,tommy I am confused,tommy,True,True,True,True,True,1.0,False
+5c090cf6-2928-43fd-b8b5-62839d9c821f,thanks danny!,danny,True,True,True,True,True,1.0,False
+5462cbe4-fe73-4067-ae29-de64a6dd6adc,can you mute tim for me please danny,danny,True,True,True,True,True,1.0,False
+9f988360-0c16-4527-b776-23fbaa09277e,see you next time tommy,tommy,True,True,True,True,True,1.0,False
+6f71c0e1-3732-46f4-9b0a-8ff2f477292b,tommy are you stuck,tommy,True,True,True,True,True,1.0,False
+432ae9bd-3d62-40b7-84c7-caef402ecf2c,"danny, nice to meet you",danny,True,True,True,True,True,1.0,False
+9fb7a78b-5c5d-4a28-aa82-a36ad78da1d4,nice to meet you tommy,tommy,True,True,True,True,True,1.0,False
+8ad5cf75-ebf5-495a-aad8-8bfc77e048b5,tommy said that he nice to meet you danny,danny,True,True,True,False,True,0.75,False
+d48878cd-dbe2-4f4d-8d07-6d626d25d9f9,nice to meet you danny,danny,True,True,True,True,True,1.0,False
+1605307f-f626-4d02-be52-d7e435ca1410,do you want to say hello to tommy danny,danny,True,True,True,True,True,1.0,False
+01b610a1-fb9e-4472-93fb-dd08ddda1b10,"do you know where tommy is, danny",danny,True,True,True,True,True,1.0,False
+06b24309-80fe-4ad7-97ce-f169cf5e9cb3,do you where danny is,danny,False,False,True,False,False,0.75,False
+1f84aa69-890f-4c52-b26c-d7c0339d2db1,Great job Lina!,Lina,True,True,True,True,True,1.0,False
+8097eb94-c348-49e1-9e4f-46be43dcca9e,You are a nice girl Lina.,Lina,True,True,True,True,True,1.0,False
+cd4d5031-f667-4f1c-9c56-d2ae077c22ba,Call Lina for me please.,Lina,False,False,False,False,False,1.0,False
+4a08d5d5-df35-4e5b-b172-8a64fa620aa6,Lina your turn please.,Lina,True,True,True,True,True,1.0,False
+73f3be1c-25b2-4ba9-8d07-7419969bd0b1,Tell Lina I said Hi.,Lina,False,False,False,False,False,1.0,False
+db1fddeb-e219-402a-b8c0-644436e3eafd,How is Lina doing?,Lina,False,False,False,True,False,0.75,False
+916c1c9f-1b90-4d81-a7b4-3003f1db3c33,Are you ok Lina?,Lina,True,True,True,True,True,1.0,False
+b3dc9daa-ba52-4d01-a017-6dd1efe57d45,Lina is the star.,Lina,False,False,False,False,False,1.0,False
+84e7fded-bd55-46f4-b838-f2cc3544b73f,"Lina, let's go.",Lina,True,True,True,True,True,1.0,False
+1c58b664-e84c-45f5-89f3-b9c09de44960,Are you Lina?,Lina,False,False,True,True,[conflict occurring!],0.5,False
+b69ea444-fdb6-4179-b0a7-27b92bfe6722,Are you JoJo?,JoJo,False,False,True,True,[conflict occurring!],0.5,False
+dec9ae63-2eda-4c6f-b771-58be8fec8453,Lina turn the airplane mode on.,Lina,True,True,True,True,True,1.0,False
+4fe2c500-0a16-4e67-b793-e6abf7c2a2d6,Can you mute yourself Lina?,Lina,True,True,True,True,True,1.0,False
+55bf07b4-69d6-480d-8223-77a31b6afa21,Lina is muted.,Lina,False,False,False,False,False,1.0,False
+c60955d3-1807-4f57-b863-564054a46902,Lina did not show up today.,Lina,False,False,False,False,False,1.0,False
+a89d1345-f55f-410e-9ed5-070ec40636ed,Lina why are you late?,Lina,True,True,True,True,True,1.0,False
+013f956f-2928-416f-bcef-84ae7af2725f,Lina can you join Tom's team?,Tom,False,False,True,False,False,0.75,False
+ea7cefb4-8634-4709-9abf-a5545cb7876a,Lina can you join Tom's team?,Lina,True,True,True,True,True,1.0,False
+ce47344e-0861-4717-86d4-e1a996d688ab,Lina needs support.,Lina,False,False,False,False,False,1.0,False
+7651df30-6530-42f5-83f0-269459e0b8a5,Lina do you need help?,Lina,True,True,True,True,True,1.0,False
+08d28f38-0adc-422e-a4a3-b6b363af7de5,Lina had a long day.,Lina,False,False,False,False,False,1.0,False
+0f2f1e9b-130b-4652-bdaa-5d343faf1874,It is too fast for Lina.,Lina,False,False,False,False,False,1.0,False
+8dbb86fd-0f9e-45e8-b52b-fcebd6f1d007,Safe drive Lina.,Lina,True,True,True,True,True,1.0,False
+dddaa924-1e64-47f8-b580-fedbbd5ccb87,This is Lina's gramma.,Lina,False,False,False,False,False,1.0,False
+bb26b8c3-8110-42f0-b722-611e021c25cb,Do you like Lina's new design?,Lina,False,False,False,False,False,1.0,False
+3ee3e96c-02d8-4cb9-aeb4-561b0ccd3dcd,I like Lina's design.,Lina,False,False,False,False,False,1.0,False
+122168e6-625d-46a9-a940-45dcc9db23d5,Save that for Lina.,Lina,False,False,False,False,False,1.0,False
+ac912513-829b-482b-88f7-27bfb8b3e59c,Lina can you take care of this?,Lina,True,True,True,True,True,1.0,False
+d884f59a-1cbb-4f8a-a2ce-134e12ed4a09,Tell Lina I will be back in 10 minutes.,Lina,False,False,False,False,False,1.0,False
+dd399e8a-f5c8-4c78-8743-1ac8022b710e,Lina I need a break.,Lina,True,True,True,True,True,1.0,False
+4e17fb78-a771-4bbe-a2d1-7895a0653932,Lina need a break.,Lina,True,False,False,False,False,0.75,False
+f23b471e-6964-4874-8a23-59a4e5f4428f,send it to Lina please.,Lina,False,False,False,False,False,1.0,False
+9261eef3-29e6-45b6-bce5-6aa066c6fa91,What time is it Joe?,Joe,False,True,True,True,True,0.75,False
+8dda7608-6969-4dd8-b2b7-f99dda8b6150,Joe will tell me when it’s time to go home.,Joe,False,False,False,False,False,1.0,False
+172c3081-7071-4a8a-9d2a-1fef1c684737,Should I switch jobs Larry?,Larry,True,True,True,True,True,1.0,False
+d2a93d00-d3bf-452d-a3c2-ecf9fa30edb9,What is the best watch to buy Dan?,Dan,True,True,True,True,True,1.0,False
+466427c3-04aa-4e27-8827-f291bba2ecec,Ted is the best!,Ted,False,False,False,False,False,1.0,False
+8cec9723-c034-4b60-bd7c-d49b8d2940b5,Is the weather bad Leon?,Leon,True,True,True,True,True,1.0,False
+bdd37282-43e7-4aa9-99e5-a8c701468015,Leon will tell me if the weather is bad.,Leon,False,False,False,False,False,1.0,False
+34540a75-5f2b-4c51-b5d4-c96d78ea7bfa,Where is my package Joe?,Joe,True,True,True,True,True,1.0,False
+58cecf52-e153-41fb-b8eb-33b87fec7868,Joe can tell me where my package is.,Joe,True,False,False,False,False,0.75,False
+0518d0c1-c4ac-4a66-80a7-a95bda376177,Order milk Larry.,Larry,True,True,True,True,True,1.0,False
+9aaf684f-186d-48b5-bdb5-54ee12f82751,Larry can order me more milk.,Larry,False,False,False,False,False,1.0,False
+97915bbb-d3d6-44bc-a104-36e3a98c3e9e,Helen find my phone.,Helen,True,True,False,True,True,0.75,False
+c6824028-05f7-4298-b66c-b4376cf9bfd7,Helen can find my phone.,Helen,False,False,False,False,False,1.0,False
+f79e2b38-7fb3-4f08-aa11-2a2bf764c5fe,Where am I David?,David,True,True,True,True,True,1.0,False
+ad6fddd1-be51-4c5e-b6be-15a10625989e,David can tell me where I am.,David,False,False,False,False,False,1.0,False
+0654adde-76e2-40a0-a4bc-3451c86b57bf,Where is the pet store Jonny?,Jonny,True,True,True,True,True,1.0,False
+eb4149a8-eaa2-439d-81d0-1de6e040ebd7,Jonny can find the best pet store.,Jonny,False,False,False,False,False,1.0,False
+48ee050c-a7a9-4c78-a6b4-553d3249066e,How much caffeine is in a latte Gary?,Gary,True,True,True,True,True,1.0,False
+ce0f31fc-cf6a-4ab3-8c6f-51a29ccf0622,Gary can find coffee near me.,Gary,False,False,False,False,False,1.0,False
+09c36839-6f99-446f-8687-f0901ab9dc74,Mort do I need a jacket?,Mort,True,True,True,True,True,1.0,False
+99643d03-45bd-4155-98d8-99034ed3f2ca,Mort will tell me if I need a jacket.,Mort,False,False,False,False,False,1.0,False
+cc9a9766-21bb-41e0-ae85-a5fa398e8ae6,How much data do we need Jerry?,Jerry,True,True,True,True,True,1.0,False
+f7fce6b6-70af-4469-9e26-a7b056b955dc,Jerry can tell us how much data we need.,Jerry,False,False,False,False,False,1.0,False
+93644190-27b0-41d7-8857-eda03eaa1110,Tommy where can I get pie near me?,Tommy,True,True,True,True,True,1.0,False
+8437c66b-4376-4667-98e4-f9be34bca3d7,Tommy can help find me pie.,Tommy,False,False,False,False,False,1.0,False
+42e81398-967d-4dbb-a450-a07dc7b2ec46,Kevin should I go swimming today?,Kevin,True,True,True,True,True,1.0,False
+5d4a184b-8ac4-4391-b833-d93918e9492c,Kevin is so helpful.,Kevin,False,False,False,False,False,1.0,False
+31acc9a3-18db-46be-bed1-4699a491c32c,Nico what cat food should I buy?,Nico,True,True,True,True,True,1.0,False
+712a8e85-12d7-4419-a859-b8e8ff016707,Sue play jazz music.,Sue,True,True,True,True,True,1.0,False
+911a5514-00cb-4113-8144-ca3104317dc1,Sue can play music for me.,Sue,False,False,False,False,False,1.0,False
+d8c7e079-2212-42ec-9ce9-7e61afca4074,How far is Burger King Ryan?,Ryan,True,True,True,True,True,1.0,False
+6ffb580a-fd0c-497e-bf6d-72d72ad43c3a,Ryan will find Burger King,Ryan,False,False,False,False,False,1.0,False
+befe36fc-2486-408b-b7e5-1512387e40c7,Put on Netflix Jeff.,Jeff,True,True,True,True,True,1.0,False
+87796390-fbaa-4074-9dab-5da32b2b9291,Jeff plays movies for me.,Jeff,False,False,False,False,False,1.0,False
+91302b19-1834-4681-b003-52be7b474cf1,Jeff is the best at picking movies.,Jeff,False,False,False,False,False,1.0,False
+142c2dc1-706e-4b00-a76b-1af0367fcd88,What time should I stop collecting data Joe?,Joe,True,True,True,True,True,1.0,False
+76b6cc41-98b6-4c00-9799-01c88b438ed2,When is my next meeting Zach?,Zach,True,True,True,True,True,1.0,False
+b3ac9143-3d46-4dfb-b222-b3b4c55a65de,Zach knows my schedule.,Zach,False,False,False,False,False,1.0,False
+f072a8a9-e6fb-4a9d-b934-cfc725f36857,Shuffle my favorite playlist Nick.,Nick,True,True,True,True,True,1.0,False
+a1b2b69a-133f-4b93-a64e-e53946559ad0,Nick will play my favorite playlist.,Nick,False,False,False,False,False,1.0,False
+c8024009-39ed-4365-8a34-c1e36a11f8d6,Bill what time is it?,Bill,True,True,True,True,True,1.0,False
+71c5e968-754d-45b4-b17e-1a4b15be88dd,Bill can tell me what time it is.,Bill,False,False,False,False,False,1.0,False
+7361eab5-207c-4641-b8ad-47b7ddd7e0df,Where is my food delivery Nelson?,Nelson,True,True,True,True,True,1.0,False
+925b8ec3-aff4-4434-bb17-9f0419d70353,Nelson can order food.,Nelson,False,False,False,False,False,1.0,False
+7edeec9a-6dba-45ce-a34c-1860f2c419d5,Order my snacks Ned.,Ned,True,True,True,True,True,1.0,False
+e1cc05ef-f8c5-451a-a490-c6ee4e2cdaaf,Kirby what is the capital of Italy?,Kirby,True,True,True,True,True,1.0,False
+16cd20c0-b980-4945-8664-5538ee21e51e,Find plumbers Nancy.,Nancy,True,True,True,True,True,1.0,False
+a5bffeda-30f5-46bd-b704-843365053668,Where can I buy a dog Jen?,Jen,True,True,True,True,True,1.0,False
+c7e3d783-7baf-4e5f-863f-a9d6668225ee,Jen order dog food.,Jen,True,True,False,True,True,0.75,False
+c8e6920f-84f6-4af7-a405-ac74a3492988,Also order cat food Larry.,Larry,True,True,True,True,True,1.0,False
+ecf76470-9bfe-43e8-a43a-d3c7d8cbfaaa,Larry can order cat food.,Larry,False,False,False,False,False,1.0,False
+b91af26a-d81d-4c8c-a7ae-0ee857d697c3,"What can I help, Lina?",Lina,True,True,True,True,True,1.0,False
+26925f07-1bb6-4711-948d-ffb1968d56e5,Do you like Lina's new design?,Lina\,False,,,False,,1.0,False
+79fa49e7-3217-4224-a67d-b14e9dcf365c,Mary find sandwiches near me.,Mary,True,True,False,True,True,0.75,False
+1f3a45e9-7775-4089-b4cb-2c030136b548,Ned orders my snacks.,Ned,False,False,False,False,False,1.0,False
+a30c70c5-720d-4c68-9ae0-753e3c7871f3,I love my assistant Joey.,Joey,False,False,False,True,False,0.75,False
+664503a9-88a4-483b-b0ba-0474f0d8faa0,Joey is the best.,Joey,False,False,False,False,False,1.0,False
+7ee88f9e-6944-475a-a5fc-68baae49369e,Matt put on Monday night football.,Matt,True,True,True,True,True,1.0,False
+eea96bbd-4797-40f7-83e8-f0564b9b246b,Who won the soccer game Henry?,Henry,True,True,True,True,True,1.0,False
+83909b7b-bd04-4e4f-9a70-aef5aeeafa08,Pete can tell us the score of the game.,Pete,False,False,False,True,False,0.75,False
+95170edd-e49a-420e-bd6b-950de3cfefe6,Mary will is snow tomorrow?,Mary,True,True,True,True,True,1.0,False
+917fed57-c15d-4405-b9f0-26422f01a3ee,How do I cook steak Reed?,Reed,True,True,True,True,True,1.0,False
+e92a7098-7d84-47ab-a744-5393330e232a,Reed can find me recipes to cook.,Reed,False,False,False,False,False,1.0,False
+e7160777-6eaf-470f-b403-b7f49e05f5df,Tom find a gas station near me.,Tom,True,True,True,True,True,1.0,False
+29c7e159-b13b-480b-978f-a3355f21a94b,Tom will find a restaurant.,Tom,False,False,False,False,False,1.0,False
+d15fdd7e-da35-4a46-b0db-a2e1bcfecce8,Carrie do I have any emails?,Carrie,True,True,True,True,True,1.0,False
+c771c609-ff4a-4e90-aeca-1123afdd0b67,Kelly can you read my new messages?,Kelly,True,True,True,True,True,1.0,False
+6bc7a6d3-2548-488b-8824-ea4f55f55840,Kelly can read my messages.,Kelly,False,False,False,False,False,1.0,False
+bd3ddf3d-8f45-4456-a55b-ef1d9329f933,When is the next bus Jack?,Jack,True,True,True,True,True,1.0,False
+f67bcd49-7069-417d-a365-0561e6df8b20,Jack will find the right bus to take.,Jack,False,False,False,False,False,1.0,False
+186d5106-1d9c-4748-b28a-2fa8dd6d007a,Call an Uber Manuel.,Manuel,True,True,True,True,True,1.0,False
+564fa71b-75d2-450c-81cd-92fc09f28f03,John will find an Uber.,John,False,False,False,False,False,1.0,False
+c25a4607-6885-4af2-872f-fb12d25952b8,Put on baseball Danny.,Danny,True,True,True,True,True,1.0,False
+a4587a5a-c15c-4110-8645-5dacca02120e,What time does the movie start Woody?,Woody,True,True,True,True,True,1.0,False
+f5d3be08-b959-45e3-ac56-0cfee2e008bb,Woody can find movie times.,Woody,False,False,False,False,False,1.0,False
+4b05a275-a225-42b3-8ede-cfdff654eb42,Do I need to charge my phone Wendy?,Wendy,True,True,True,True,True,1.0,False
+34faaa89-68e2-4606-9e79-bed2bc75d62d,Marvin will tell me if I need to change my phone.,Marvin,False,False,False,False,False,1.0,False
+389d9e6f-d36a-4347-ad64-5465b532a784,Katherine block my ex.,Katherine,True,True,True,True,True,1.0,False
+c1c15a21-e536-4f79-bcf8-761d41b888d8,Do I need to bring an umbrella Suzy?,Suzy,True,True,True,True,True,1.0,False
+9a7a2905-db87-42dc-a081-c629b8153345,Suzy knows if it’s raining.,Suzy,False,False,False,False,False,1.0,False
+33b59a1a-da02-4edf-8401-be2fba3924a3,Where can I ride an Alpaca Cody?,Cody,True,True,True,True,True,1.0,False
+78c7853f-d37a-48f3-9a95-6a64d79c8cbe,How far is New Hampshire Ted?,Ted,True,True,True,True,True,1.0,False
+2682c933-af24-4282-9332-841748152de7,Ted can tell me how far New Hampshire is.,Ted,False,False,False,False,False,1.0,False
+178a131d-ee3c-40f0-9375-45775a4f448f,Set an alarm for 8:15 Joe.,Joe,True,True,True,True,True,1.0,False
+3127ab53-81db-4036-90b9-04a1fc818fa2,Pete is it time for bed?,Pete,True,True,True,True,True,1.0,False
+81e3fa09-7e49-49bc-a049-32f11b876a90,Check my calendar for upcoming assignments Doug.,Doug,True,True,True,True,True,1.0,False
+201599f5-06a6-4fd4-91bd-68b03f6e4aa1,Erin is my friend.,Erin,False,False,False,False,False,1.0,False
+0060a4e5-134b-4874-b6d4-349e88d9af4c,How much is minimum wage Steve?,Steve,True,True,True,True,True,1.0,False
+cb43661c-2f6e-4411-9188-7f5bd2ae7756,Wanda can answer any question.,Wanda,False,False,False,False,False,1.0,False
+0c286fde-5a69-4ae0-b9e2-89711d02c2f3,Where is Lina?,Lina,False,False,False,False,False,1.0,False
+89060d6e-7e8b-458f-8d46-d4c832f917fa,I know where is Lina.,Lina,False,False,False,False,False,1.0,False
+5f9feb31-a94f-4bc6-8805-3042768bf6ba,Lina where is your mom?,Lina,True,True,True,True,True,1.0,False
+5b9d6539-e3a5-4200-9d47-9cf60b8de744,Time to go Lina.,Lina,True,True,True,False,True,0.75,False
+88965691-444f-4a20-9045-cfbc78667cc3,Lina do you like driving ?,Lina,True,True,True,True,True,1.0,False
+173ca1b8-6fef-4a2b-a87a-eba178c11136,This is Linda's car.,Linda,False,False,False,False,False,1.0,False
+4965983e-ace8-48cd-9fbe-719e031ef4fb,Lina will drive tomorrow.,Lina,True,False,False,False,False,0.75,False
+8e98e418-1465-44ac-b302-407f65f17788,Lina can you drive?,Lina,True,True,True,True,True,1.0,False
+63cb0911-079c-41cb-805b-6aaa63551eb0,Lina likes Turkey.,Lina,False,False,False,False,False,1.0,False
+dedafa5e-b9f8-47d0-95a5-99c84b2bb9e9,Lina do you know how to cook turkey?,Lina,True,True,True,True,True,1.0,False
+bb073fd4-025a-4a04-88fb-aec4117e7339,Lina likes snow.,Lina,False,False,False,False,False,1.0,False
+7fb75d07-2a96-4f2f-a0cb-265a81e65dac,Lina let's make some snow.,Lina,True,True,True,True,True,1.0,False
+208e4154-d037-414a-88ff-546d38d83716,Lina likes jogging.,Lina,False,False,False,False,False,1.0,False
+166108c2-6e44-464a-8907-081055bbcb9b,Do you want to jog with me Lina?,Lina,True,True,True,True,True,1.0,False
+07af51de-9e55-4fe3-bff5-88e0958e2c2b,This is my friend Lina.,Lina,False,False,False,False,False,1.0,False
+6682284a-ff30-43c2-a9d3-663276f15068,Lina can you be my friend?,Lina,True,True,True,True,True,1.0,False
+4050a661-759b-4e93-b1c5-22555f83e9a6,Can you hold that for me please Lina?,Lina,True,True,True,True,True,1.0,False
+c8fd35d2-9a6d-4941-b0fc-5a8ad3806f8a,Lina Happy Birthday!,Lina,True,True,True,True,True,1.0,False
+11409ec8-b6e7-4182-a87d-d39e0be57f5f,Today is Lina's birthday.,Lina,False,False,False,False,False,1.0,False
+d146b859-cc5d-4845-b55b-65574ec3bed4,Is today your birthday Lina?,Lina,True,True,True,True,True,1.0,False
+0c4d189d-1531-487c-a1a5-4c8d7d60dfbf,Lina said hello.,Lina,False,False,False,False,False,1.0,False
+f88e8db7-3dc2-4847-9ba2-b2f9525caac2,Hello Lina!,Lina,True,True,True,True,True,1.0,False
+fe9993c2-3b02-4d34-bfd1-4fc172778eae,Lina has a red car.,Lina,False,False,False,False,False,1.0,False
+30a6151f-f8e9-43db-8e60-550fbaab8275,I like Lina's car.,Lina,False,False,False,False,False,1.0,False
+6f868bca-66fd-45ac-ba7c-550e541648aa,Lina can you move your car?,Lina,True,True,True,True,True,1.0,False
+0a9edb50-ac39-49ad-86f1-72d8add4833a,We have been looking for you Lina.,Lina,True,True,True,True,True,1.0,False
+4e9e08fc-37b9-4d3d-8101-b5b8b51f6ba3,We know Lina's friends.,Lina,False,False,False,False,False,1.0,False
+d8ae90ca-25dd-4cad-ad28-2ed98e35b70c,Lina likes rain.,Lina,False,False,False,False,False,1.0,False
+206c665e-139e-41b0-abb3-a1397798307a,Do you like rain Lina?,Lina,True,True,True,True,True,1.0,False
+8225ec16-a24d-4606-92e1-de8c450165a0,Lina says it is too hot.,Lina,False,False,False,False,False,1.0,False
+ce3f65b9-9591-49dd-8733-3588228fdea6,Nice work Lina.,Lina,True,True,True,True,True,1.0,False
+55e0e2a6-f86a-46d3-ae36-6af03b9dc2e0,Lina did a great job.,Lina,False,False,False,False,False,1.0,False
+fbd76b86-40f5-4779-8ebd-0a949f8d3092,Do you like your job Lina?,Lina,True,True,True,True,True,1.0,False
+8ac08925-c915-49ab-9a4c-80801010ae2b,What do you do Lina?,Lina,True,True,True,True,True,1.0,False
+b13d9736-4ecf-42cb-b2d1-07b72431b9ae,Where do you work Lina?,Lina,True,True,True,True,True,1.0,False
+589df5c9-2d9b-4e8b-8b61-89e55802ffab,Lina is a student.,Lina,False,False,False,False,False,1.0,False
+cbdd67f9-daf2-4903-b0db-f4f83671dd01,Lina wants to join Navy SEALs.,Lina,False,False,False,False,False,1.0,False
+09b255b0-3bb0-4398-8b3c-021d075178c7,Lina why do you join Navy SEALs?,Lina,True,True,True,True,True,1.0,False
+32b3a063-715c-45d9-8196-b129585491e3,Lina do you like dog?,Lina,True,True,True,True,True,1.0,False
+f2042876-60f3-4ae8-b952-fd797fa7f2c7,Lina likes dog.,Lina,False,False,False,False,False,1.0,False
+0c8b241e-ac2a-4d0e-86f7-37284a7e8eb4,Lina has a dog.,Lina,False,False,False,False,False,1.0,False
+c353b899-805e-422d-bf1e-1bd08279bf3a,Lina how many dogs do you have?,Lina,True,True,True,True,True,1.0,False
+7e459b80-be64-49a1-bf39-b91eff7bc4ee,"What flower do you like, Lina?",Lina,True,True,True,True,True,1.0,False
+3e5709b0-88dc-4096-9399-430b2506ba58,Lina likes hydrangea.,Lina,False,False,False,False,False,1.0,False
+4f1c9e76-71b6-484a-94f5-21c2812700c5,Lina knows a lot about Peony.,Lina,False,False,False,False,False,1.0,False
+df5cb342-af26-4683-b7d4-8037a0aa7681,"Nice rose, Lina.",Lina,True,True,True,True,True,1.0,False
+25f614a2-20a8-44ea-8f4b-d42eb443ca66,Lina likes climbing rose.,Lina,False,False,False,False,False,1.0,False
+7521f2fa-cb51-47e3-b750-c9b67ff47015,This is Lina's dog Bucky.,Bucky,False,False,False,False,False,1.0,False
+eb4e5164-4488-43bd-8385-63cab17144bb,Bucky come here.,Bucky,True,True,True,True,True,1.0,False
+957d7fcb-cdf3-47c9-b579-4aa431abc889,Bucky sit.,Bucky,True,True,True,True,True,1.0,False
+cc3df567-6eac-4c9e-8a54-32f0cd0f9e91,Bucky is a nice dog.,Bucky,False,False,False,False,False,1.0,False
+10e69241-2c58-4f2c-a7f9-5345a57e8a34,I am going to take a walk with Bucky.,Bucky,False,False,False,False,False,1.0,False
+5458bd73-c954-486d-9d35-df0b23d35b8f,Order dog food for Bucky.,Bucky,False,False,False,True,False,0.75,False
+b6403fda-1f59-4ee7-8b00-9e5ad659dbcb,Is Lina your friend?,Lina,False,False,False,False,False,1.0,False
+bc13ea0e-5c50-485c-9359-c84f4a5be00f,I know your friend Lina.,Lina,False,False,False,False,False,1.0,False
+7e2ec2fb-f3d9-4e8f-ba8d-41cb204baed5,Lina is a nice dog.,Lina,False,False,False,False,False,1.0,False
+6bbbd4af-2275-42e2-b9e7-d9685a6cdcdd,Lina likes cat.,Lina,False,False,False,False,False,1.0,False
+7f1668ef-fee7-4af6-9807-150018324acc,Do you have a cat Lina?,Lina,True,True,True,True,True,1.0,False
+71bd3b0f-a392-45fd-91a4-23b607d22060,Lina said she likes cat.,Lina,False,False,False,False,False,1.0,False
+fb36f9da-eb68-4d99-97ad-30986934a6e1,Lina where is your cat?,Lina,True,True,True,True,True,1.0,False
+ca13433e-1c1d-4f18-9418-b6652a88bd3c,Lina is taking a break.,Lina,False,False,False,False,False,1.0,False
+8d17012c-dace-4ef0-ae6f-5afcb37e9e0c,I had dinner with Lina.,Lina,False,False,False,False,False,1.0,False
+3657528b-4add-4914-a5ce-5714c574ccbd,Do you want to have dinner with me Lina?,Lina,True,True,True,False,True,0.75,False
+e57a2627-e508-49a1-a51b-dcbf8790cdac,Lina likes spicy food.,Lina,False,False,False,False,False,1.0,False
+2d267e57-7fcd-48d2-b21b-2d4cb6695521,Do you like spicy food Lina?,Lina,True,True,True,True,True,1.0,False
+26283776-4805-41ef-9c13-0738a8932add,Lina is tired.,Lina,False,False,False,False,False,1.0,False
+bd317728-52ef-4a85-ab6d-699809c233b9,Are you tired Lina?,Lina,True,True,True,True,True,1.0,False
+1505e982-b8a2-4db1-9aea-f72d13f39429,Lina is having a headache.,Lina,False,False,False,False,False,1.0,False
+4233aa87-ffe2-4daa-be24-8ec9a3695b34,Do you have fever Lina?,Lina,True,True,True,True,True,1.0,False
+15cd3271-1d9b-49b9-a8f9-c011a5f32ac3,Lina is tested positive.,Lina,False,False,False,False,False,1.0,False
+4fceb121-9a38-4334-8d26-22997ff4b8ae,What is your test result Lina?,Lina,True,True,True,True,True,1.0,False
+3bef032a-fd0b-4901-a615-6a1e00fd3013,Logan had a great trip.,Logan,False,False,False,False,False,1.0,False
+cb5c3fb7-c7ff-4d47-b3a9-9c44d3337481,How was your trip Logan?,Logan,True,True,True,True,True,1.0,False
+5fa533e5-70ec-4ee9-ad04-c95ff07c3ff1,Logan will book the ticket for me.,Logan,False,False,False,False,False,1.0,False
+1bc4cd04-ba30-4755-aa72-e6938e154936,Did Logan have desert?,Logan,False,False,False,False,False,1.0,False
+31bf328f-95fe-4481-ba0f-ddb22e5a1a6a,Logan had desert.,Logan,False,False,False,False,False,1.0,False
+443462ff-7e2b-4769-b799-020a0b5b2df6,Logan made a plan.,Logan,False,False,False,False,False,1.0,False
+467ed51b-3047-4697-8d02-399801dea2c2,Logan can you make a plan?,Logan,True,True,True,True,True,1.0,False
+f1318171-21a6-45f0-b34f-d460f42a9e22,A deer went by Tom.,Tom,False,False,False,False,False,1.0,False
+930b2fc7-4bff-44f3-8b70-b3dcd68508eb,Tom do you want to camp out with us?,Tom,True,True,True,True,True,1.0,False
+9bb9b3ee-4c87-426c-bd9f-22c7dbe625e1,Tom will camp out with us.,Tom,False,False,False,False,False,1.0,False
+5d27bdf9-be39-4e0a-bb4c-62de306ec4c1,Tom likes camping.,Tom,False,False,False,False,False,1.0,False
+7083330d-0fd7-415b-95e2-c466a3390374,Excuse me Tom.,Tom,True,True,True,True,True,1.0,False
+6ab331bf-f3f7-4253-82be-a3c7b98b62c2,"Sorry Tom, the restaurant is closed.",Tom,True,True,True,True,True,1.0,False
+14feaa88-6154-4263-bb70-e69d13c9fc04,I was on the phone with Tom few minutes ago.,Tom,False,False,False,False,False,1.0,False
+7919a1e2-89e4-4418-8000-5a76b5202b7c,"Hi Tom, any plan for tomorrow?",Tom,True,True,True,True,True,1.0,False
+0c40443c-5cf9-42ce-8137-cc91c5c606fc,Tom is free tomorrow.,Tom,False,False,False,False,False,1.0,False
+5ed2cb37-b543-4663-baab-d746c70a7fc2,Tom will be busy tomorrow.,Tom,False,False,False,False,False,1.0,False
+fd128075-fda8-43cf-be7b-7c247adbc978,Can you check your schedule Tom?,Tom,True,True,True,True,True,1.0,False
+c09e559e-aa83-4ba9-aacb-8eddaef9a70c,Tom will check his schedule.,Tom,False,False,False,False,False,1.0,False
+2c8e66e8-54a6-462d-8810-7fee2a6ca2a5,The snake is moving towards you Tom.,Tom,True,True,True,True,True,1.0,False
+3d8e49df-3f85-4536-b427-87c1f7bfbe31,Tom saw a snake.,Tom,False,False,False,False,False,1.0,False
+89723e25-85a8-4ebb-a56d-e03bf859efa6,Is this Tom's phone?,Tom,False,False,False,False,False,1.0,False
+ac3fe877-a13e-46c7-a97d-afe144e08268,Tom can you come get your phone?,Tom,True,True,True,True,True,1.0,False
+b510bc33-7a46-42c9-a03a-aed7c5da9bd0,Tom put organic milk on my shopping list.,Tom,True,True,True,True,True,1.0,False
+8b1b1757-a179-433d-9e4b-b99a8afae27a,Tom is a good assistant.,Tom,False,False,False,False,False,1.0,False
+48a7a015-55b3-4b13-b29f-07b35c50742a,Tom how does Covid-19 spread?,Tom,True,True,True,True,True,1.0,False
+13b3aad4-f565-4eaa-a4eb-54ad16b9b2e9,Tom will help us.,Tom,False,False,False,False,False,1.0,False
+2480db39-28e1-4a2a-9ac3-bf2b9860eaf6,Do you know Tom?,Tom,True,False,False,False,False,0.75,False
+7d1a955a-d6cf-4528-bf09-23c850517c9c,Tom record the show.,Tom,True,True,True,True,True,1.0,False
+fdc9bcdc-8f34-4b89-a554-82619fb61eb3,Ask Tom to record the show for you.,Tom,False,False,False,False,False,1.0,False
+6269bfa0-7ee8-487f-aabe-5e80c8a24bd6,Tom had his Christmas decoration out.,Tom,False,False,False,False,False,1.0,False
+771fd2c4-2cf7-4a06-af23-041ce78715de,Do you like Christmas Tom?,Tom,True,True,True,True,True,1.0,False
+5dd8f44e-b861-4edb-978f-979ecabdd663,Logan said Santa is not real.,Logan,False,False,False,False,False,1.0,False
+eccb3bd7-dafa-4dc5-b455-7fc0515e5de6,Logan what do you want for Christmas?,Logan,True,True,True,True,True,1.0,False
+531c8e19-d3aa-4aa3-bff0-d4c70cff769c,Logan is making a plan to trap Santa.,Logan,False,False,False,False,False,1.0,False
+ca84a8ea-70b2-4a69-bba8-7592f3b2af91,Logan do you know where is Santa?,Logan,True,True,True,True,True,1.0,False
+c79c125e-c2bd-4815-a3a0-82278d49f41f,Logan said Santa is watching him.,Logan,False,False,False,False,False,1.0,False
+6e0ade5d-3ae6-4862-91ce-cbd90487d761,Are you ok Logan?,Logan,True,True,True,True,True,1.0,False
+5fd0e911-94d9-4d63-b6d4-dd4e9ddb4b7b,Lina said she liked the job.,Lina,False,False,False,False,False,1.0,False
+b0ff71dc-29cb-4ecf-9448-117cf9bb1056,Lina works for CIA.,Lina,False,False,False,False,False,1.0,False
+ff623af0-f674-47ca-89cf-23ae25d71e9a,Lina do you know how to take care of Peony?,Lina,True,True,True,True,True,1.0,False
+609d1d61-bafe-43cb-ad8c-e292452d7349,Logan can you book a ticket to Alaska for me please?,Logan,True,True,True,True,True,1.0,False
+57e70c02-0ae7-4bb3-80c2-a33bd7dbf307,"Tom find out who is the director of ""Legends of the Fall""",Tom,True,True,True,True,True,1.0,False
+1c8a1df3-cf84-4708-9ada-6e214b01edf8,Brooke how many bones do elephants have?,Brooke,True,True,True,True,True,1.0,False
+3bbf16cc-f71d-49d5-82e3-ffdfbd0b5902,Brandon how many types of fish are in the Red Sea?,Brandon,True,True,True,True,True,1.0,False
+67f238fb-a9df-4409-86fd-f6a422e7fb5a,Holly how many calories are in a serving of Potato Stix?,Holly,True,True,True,True,True,1.0,False
+6d699cc6-fe78-4d3d-a21f-ba988af47483,Thomas where can I buy Chapstick?,Thomas,True,True,True,True,True,1.0,False
+fadd6a2d-fe1f-4be6-bdc0-8031850b03bd,Thomas can tell me where to buy Chapstick.,Thomas,False,False,False,False,False,1.0,False
+cdbaf111-6cb3-4f34-a6b9-2a4ff68f1454,Tom what is the difference between red and green?,Tom,True,True,True,True,True,1.0,False
+ae97f2f9-8269-41c6-a653-6fe46eec182b,Abby where is the nearest dispensary?,Abby,True,True,True,True,True,1.0,False
+1a95dd79-8c2a-44bf-a7e5-eebbd3a9b899,Brandon can tell me where to go.,Brandon,False,False,False,False,False,1.0,False
+6fb84563-d738-4eee-bdb6-a428aef8f048,Judy find my phone.,Judy,True,True,True,True,True,1.0,False
+b268743c-52d3-4e83-811d-1049be35b27e,Helen answer my phone.,Helen,True,True,True,True,True,1.0,False
+267c2de9-495e-4205-9f26-1a04f681a352,What's next in my schedule Bob?,Bob,True,True,True,True,True,1.0,False
+3626e1ce-824e-4b97-8113-bf78154ecd30,John find flights to California tomorrow.,John,True,True,True,True,True,1.0,False
+5768a7ec-ec20-428b-821f-fab4eb7c4648,Elizabeth can read me recipes when I cook.,Elizabeth,False,False,False,False,False,1.0,False
+d2b27de5-467f-4f19-b5cc-46cdf9510b9c,Nancy buy movie tickets.,Nancy,True,True,True,True,True,1.0,False
+d8be985f-3a09-4475-ae9a-3a1206c6c29f,Jeff set a time for one hour.,Jeff,True,True,True,True,True,1.0,False
+a0bc139a-3656-4908-bfe1-5113bbf97286,Tom what is the weather tomorrow?,Tom,True,True,True,True,True,1.0,False
+3b8aac96-9f9d-4fc9-938d-560702990f45,Pete can set an alarm.,Pete,False,False,False,False,False,1.0,False
+42b62fdb-77cc-419e-b259-482a3be5c646,Order pizza please Tom.,Tom,True,True,True,True,True,1.0,False
+413d27dc-dc17-4ddc-b963-8708cef33bab,Tom will order pizza tonight.,Tom,False,False,False,False,False,1.0,False
+33a9fb00-ecb6-474c-a57a-e521c2261c48,Nick can find the best place for tacos.,Nick,False,False,False,False,False,1.0,False
+ab268835-0811-4b92-b79e-e4291d59a719,When is this due Tom?,Tom,True,True,True,True,True,1.0,False
+fd3ffb04-4a4c-416d-9e65-5246b0db35c3,Lenny what time is it in Japan?,Lenny,True,True,True,True,True,1.0,False
+46d7eb21-83a7-41ff-ae65-e21730cbf8c7,Lenny can tell me the time in any country.,Lenny,False,False,False,False,False,1.0,False
+267f398f-9668-45f5-9676-d55eaf028ba2,Tom is busy.,Tom,False,False,False,False,False,1.0,False
+c207fa6d-0edd-40c4-8be3-93832c717a7f,Tom knows Tim.,Tom,False,False,False,False,False,1.0,False
+a9cd744f-7bf8-4e36-b624-722f735645cc,Where can I find Tom?,Tom,False,False,False,False,False,1.0,False
+ad0fd68f-3c51-45f0-ad9e-644036459240,Ralph when is the next bus?,Ralph,True,True,True,True,True,1.0,False
+14087b92-081a-4373-968a-128defd45cbc,Tom will you be able to join us?,Tom,True,True,True,True,True,1.0,False
+06d9b242-54cf-4715-a762-ed49b678ebef,Ralph can tell me what the bus schedule is.,Ralph,False,False,False,False,False,1.0,False
+4727fab9-c241-45f7-88e2-b715598fa420,Tom when will be free?,Tom,True,True,True,False,True,0.75,False
+94b66edb-c75d-4fb6-b850-2dd37fd9cf17,Tom when will the winter end?,Tom,True,True,True,True,True,1.0,False
+0ed27bab-d601-4e13-b9d0-a7662ea43c0a,Do you like the winter Tom?,Tom,True,True,True,True,True,1.0,False
+74fa7717-a98e-4c12-be73-462fba28a489,How is your family Tom?,Tom,True,True,True,True,True,1.0,False
+6116c688-6852-43e6-91b2-8bed9771f863,Tom has a big family.,Tom,False,False,False,False,False,1.0,False
+34237aa0-f8f5-46a2-b8af-e14d31dcac7d,Tom got here early.,Tom,False,False,False,False,False,1.0,False
+b7ead4a0-55bd-4c11-9b12-fc9419c94750,How long will it take to get home Luke?,Luke,True,True,True,True,True,1.0,False
+395d962c-b48e-4864-b3b0-46bd4adb6d66,Luke find directions to campus.,Luke,True,True,False,True,True,0.75,False
+2329376c-9306-4219-961f-46a96f3f23cc,Luke can help me find where I need to go.,Luke,False,False,False,False,False,1.0,False
+bee555a7-99d6-44f3-b32a-2daa1fea9266,Maddy call the police.,Maddy,True,True,True,True,True,1.0,False
+d319dc9d-aa4a-457a-a5cc-cc1d7f312068,Tom download the map please.,Tom,True,True,True,True,True,1.0,False
+055a88e4-73c0-432d-947f-83cb438b3e9b,David order paper towels from Amazon.,David,True,True,True,True,True,1.0,False
+ebf6f209-c1fa-4552-b434-da49e129cfa9,Tom is making dinner.,Tom,False,False,False,False,False,1.0,False
+add1bb59-dc09-49a1-8faf-1d1ff3a5d143,Can you make dinner Tom?,Tom,True,True,True,True,True,1.0,False
+9682b1ec-4fc6-4e69-9a58-309c9a2f0d65,David orders whatever I need.,David,False,False,False,False,False,1.0,False
+8c3ada46-76bc-4357-b9b7-c644e1a2219f,Tom check the data.,Tom,True,True,True,True,True,1.0,False
+cacd5de0-d784-445b-8825-fe1670c7ff0e,Tom is in charge of this.,Tom,False,False,False,False,False,1.0,False
+bece513e-04a2-4fe5-b190-8b2be97512e0,Danny how far until we reach the lake?,Danny,True,True,True,True,True,1.0,False
+3ca4a1c0-0171-4d37-a7fe-dbcba0521644,Tom export the data please.,Tom,True,True,True,True,True,1.0,False
+8f38c2d1-949d-4cbf-ba24-8ade7aa4b511,Danny where do I make my next turn?,Danny,True,True,True,True,True,1.0,False
+8b4b6325-1fb6-4131-889b-aed29afbfaa9,Ask Tom to export the data for us.,Tom,False,False,False,False,False,1.0,False
+1489877e-4515-4496-8b9d-0cd2fee39ec0,Tom is good at basketball.,Tom,False,False,False,False,False,1.0,False
+b9cf822c-56cb-4714-a8c5-c22ec3c53a5b,When is your next game Tom?,Tom,True,True,True,True,True,1.0,False
+e9bda5d6-03f4-4f57-940c-986197468f26,Rob find restaurants for lunch.,Rob,True,True,False,True,True,0.75,False
+926fd41b-fefe-4f4a-ad53-fa01e7caf870,Tom who is the best quarterback in the NFL?,Tom,True,True,True,True,True,1.0,False
+bbfe184f-0717-47e7-82b3-8d3dc955607e,Logan is helping for more questions.,Logan,False,False,False,False,False,1.0,False
+9975cb8d-412f-4155-aa6a-d0b705b8b2cf,How do I make a cake Fred?,Fred,True,True,True,True,True,1.0,False
+ed652bfa-6048-4722-aa13-4ea4b3228e8f,Logan likes Tom Brady.,Logan,False,False,False,False,False,1.0,False
+554a5ec1-4e8a-4884-931f-ce1e3180ec03,"Logan, why do you like Tom Brady?",Logan,True,True,True,True,True,1.0,False
+5ba39a4a-6056-4205-a3db-c60b5a28c7e7,Logan said UMass hockey has a game this weekend.,Logan,False,False,False,False,False,1.0,False
+14063ddd-3ff0-4559-8fa9-ef894119fc62,Logan do you want to watch UMass hockey this weekend?,Logan,True,True,True,True,True,1.0,False
+4c83c48d-e6a8-4637-8eee-ed1454487dd1,Logan where can I buy the ticket for UMass hockey?,Logan,True,True,True,True,True,1.0,False
+143feb63-b084-404a-aa18-c1a5758a175f,Logan know where to buy the ticket.,Logan,True,False,False,False,False,0.75,False
+ed584020-cb50-4ae2-80a2-12817658e574,Logan is on the way to UMass rink.,Logan,False,False,False,False,False,1.0,False
+e01ae20d-e0e0-44ca-8447-fb098caa5d8c,Logan when is your next practice?,Logan,True,True,True,True,True,1.0,False
+5c9f705f-fe4d-42e8-bd21-ec6fbd617e85,Logan got the tip.,Logan,False,False,False,False,False,1.0,False
+f5c21dab-a3f5-490f-9f98-9bf2df8651ab,Joe what's the time?,Joe,True,True,True,True,True,1.0,False
+7f92e650-6b2f-4639-a613-0a2a65fd565a,Hi tommy,tommy,True,True,True,True,True,1.0,False
+cdb0703a-1051-4e39-b6da-fc4d8ac9742b,hey tommy,tommy,True,True,True,True,True,1.0,False
+0912ec41-cfc0-49b6-9084-304f5733d7e5,"tommy, how are you",tommy,True,True,True,True,True,1.0,False
+fea378ae-9676-4eae-af76-970eca261578,"what can you do, tommy",tommy,True,True,True,True,True,1.0,False
+6be58d79-ed4c-47a9-b069-977bc47f7461,"can you find the nearest bar for me, danny",danny,True,True,True,True,True,1.0,False
+524547f3-f942-4dd6-8493-c9c6ea1a5a28,"find the nearest bar for me, danny",danny,True,True,True,True,True,1.0,False
+963529cf-49a0-4a87-a0a9-b3bd79c1a3d0,danny can help me finding the nearest bar,danny,False,False,False,False,False,1.0,False
+3b3a1f57-fbd0-48c0-ba37-21da60c5c3e9,danny can you find a nearest restaurant,danny,,True,True,True,True,1.0,False
+27ec1cf0-8e01-4e67-9bf0-a97d8d352866,danny can find the nearest restaurant,danny,,False,False,True,False,0.6666666666666666,False
+933d09ba-79b7-4f02-895e-83f7dd397474,danny can you assign me to another room,danny,,True,True,True,True,1.0,False
+cddcf17c-442c-4fdf-950e-5a777e2dee5c,assign me to another room please danny,danny,,True,True,True,True,1.0,False
+0105424d-94a0-40e0-a46d-4181c5e9920c,"danny, export the data",danny,,True,True,True,True,1.0,False
+8bacaf93-b47c-4645-bb60-e703fa884643,danny can you export the data please,danny,,True,True,True,True,1.0,False
+3fc9b67c-6a37-4ad5-b59a-fcb01050bc7e,export the data danny,danny,,True,True,True,True,1.0,False
+a5650013-8eb0-4dd1-94e3-2e73ad3b7512,"add it to my favorite, danny",danny,,True,True,True,True,1.0,False
+26a17fb8-b853-44f3-81ea-5e26e68d360c,"danny, resume playing",danny,,True,True,True,True,1.0,False
+2eded453-8b40-4aa3-a086-0aafb7515e80,play some music danny,danny,,True,True,True,True,1.0,False
+c4c5a010-ab24-4562-9444-57c8403ec388,play some music from danny,danny,,False,False,False,False,1.0,False
+4cb01001-125f-4d32-894d-d8d59fae849e,"danny, play some music, okay?",danny,,True,True,True,True,1.0,False
+be6eae7b-2dce-4183-b7a7-24a54ead2794,"danny, i am confused",danny,,True,True,True,True,1.0,False
+7a29d5fa-07fa-48e5-8d6c-66503b94dc64,"Are you serious, danny?",danny,,True,True,True,True,1.0,False
+25842d1f-c564-4aa2-a390-d516b3fda160,"danny, are you serious",danny,,True,True,True,True,1.0,False
+a21f55f4-2d57-4191-b1d3-5daa8a4a0dc9,"god damn danny, are you serious",danny,,True,True,True,True,1.0,False
+ef4a93e0-bca0-4a1b-8969-ff42efe7f355,shut up danny,danny,,True,True,True,True,1.0,False
+e302eec4-f6ed-427c-99e4-1d996b66570e,danny shut up,danny,,True,True,True,True,1.0,False
+084d0dcc-e07f-4d61-ba93-149411099301,"then, danny shuts up",danny,,False,True,False,False,0.6666666666666666,False
+6fb42a69-cd33-4eae-b0dd-9ebde617666e,"what is the weather outside, danny",danny,,True,True,True,True,1.0,False
+4d5ce0de-54ed-4eea-9e33-ea18c3712985,"danny, tell me the weather",danny,,True,True,True,True,1.0,False
+49682fef-e9e3-488d-8a51-4bbe15b8e0a9,alright danny,danny,,True,True,True,True,1.0,False
+3b11f531-9dce-4dc9-9e13-9771081633c8,I love jimmy,jimmy,,False,False,False,False,1.0,False
+31de591f-7284-444b-9b46-ed2139466994,I love you jimmy,jimmy,,True,True,True,True,1.0,False
+30c03dfb-115d-49da-ad1c-e645ea030064,I like tommy,tommy,,False,False,False,False,1.0,False
+25c28a5b-82d5-46cf-ba97-f67f637a3f66,How are jimmy today,jimmy,,False,False,False,False,1.0,False
+d5e22ce2-de07-438d-a334-1df98e393fd2,You are better than tommy,tommy,,False,False,False,False,1.0,False
+9be73e9d-10f6-4617-8811-5b54ef80a6d0,tommy you are much better than jimmy,tommy,,True,True,True,True,1.0,False
+e951ecf4-7f3c-4df1-89ca-765c9f37df12,"you are much better than jimmy, tommy",tommy,,True,True,True,True,1.0,False
+32603465-c833-4ff6-88c6-90a2d5e6b691,"you act much better than james, amy",james,,False,False,False,False,1.0,False
+8548e3cb-de9b-4c18-8e8e-e6f666bfd9dc,"jimmy, see you later",jimmy,,True,True,True,True,1.0,False
+33dac05d-972e-4ef4-97f2-829a0fc93177,you should check jimmy later,jimmy,,False,False,False,False,1.0,False
+6c31ad50-d834-4fef-92b7-b7add910ec30,are jimmy okay?,jimmy,,False,False,False,False,1.0,False
+960ad7d5-5880-4f5e-8b6c-5c9f7054a8b2,"danny, you are so good at competing with jimmy",jimmy,,False,False,False,False,1.0,False
+812f3d69-ca19-475b-8e71-9b5b9a2dd62a,dance with jimmy,jimmy,,False,False,False,False,1.0,False
+63566d73-7da3-4e38-be78-76b182d8fc01,you can find the result with jimmy,jimmy,,False,False,False,False,1.0,False
+703e26c9-2c01-4e77-a66f-cd3dbe1a382f,see jimmy later,jimmy,,False,False,False,False,1.0,False
+4ca95d69-ad3b-4dfe-ab0e-dc82274a7189,Are you feeling good about it Jimmy?,jimmy,,True,True,True,True,1.0,False
+c07b358e-fb8b-40ab-a849-298f1f0be8a3,are you feeling good about jimmy?,jimmy,,False,False,False,False,1.0,False
+8f1bb8a0-d7cd-44a5-a880-f96e9d267025,Are Jimmy feeling good about it?,jimmy,,False,False,False,False,1.0,False
+e41d2498-7034-41f1-b20d-11775ccddfb9,Is Jimmy feeling good?,jimmy,,False,False,False,False,1.0,False
+3296f7cc-e0eb-4c93-a37d-bc177d58484d,Jimmy says that you are so cool!,jimmy,,False,False,False,False,1.0,False
+164dd471-5827-4ab6-9117-3b7ee5c2817a,"Jimmy, say he is so cool!",jimmy,,True,True,True,True,1.0,False
+9acd33e8-77ee-4bbb-b7d0-12e0a35924dc,Jojo record the show.,Jojo,,True,True,True,True,1.0,False
+fb2a3224-0cf6-435c-8b5c-57e623c960cf,Record  the show for Jojo.,Jojo,,False,False,False,False,1.0,False
+834694eb-685d-4b9d-ae20-1b6581420581,Logan what time is it now?,Logan,,True,True,True,True,1.0,False
+e1590832-22f5-41f0-9a77-56ecd50b4b71,What is the weather today Logan?,Logan,,True,True,True,True,1.0,False
+5b5315b2-460f-4972-815c-3587a9566a75,Logan set 30 minutes timer.,Logan,,True,True,True,True,1.0,False
+52e7a812-600a-4b14-bf5b-ca0e30546d32,who is Logan?,Logan,,False,False,False,False,1.0,False
+4f2a2c0b-4cda-4a2a-9d46-6bc97dfd97be,Do you know Logan?,Logan,,False,False,False,False,1.0,False
+0ee7a757-b822-47ca-9c99-5b5bd634c22d,Logan is hungry.,Logan,,False,False,False,False,1.0,False
+b27809fa-0a20-49a6-bcf2-47b2aca1731a,Logan do you like math?,Logan,,True,True,True,True,1.0,False
+ad32b88f-aa7d-4fcc-8bee-b3ce063b84e6,Do you like Logan's idea?,Logan,,False,False,False,False,1.0,False
+24423a69-6b3f-4860-b99f-bace20bdd944,Logan has a brother.,Logan,,False,False,False,False,1.0,False
+8b751805-7b64-4787-9928-6e9cd36dd8bb,Do you know Logan's brother?,Logan,,False,False,False,False,1.0,False
+f63c1cb5-2b40-4aa9-98c7-73f25a2b2fcb,He has a brother named Logan.,Logan,,False,False,False,False,1.0,False
+20a3c400-836e-49ee-b588-5cac3cbf8480,Logan play my favorite song.,Logan,,True,True,True,True,1.0,False
+39c3f92f-7512-48b5-a36b-16e3b2cfe183,Logan Play Maggie May.,Logan,,True,True,True,True,1.0,False
+95942094-5fd0-4159-9844-f830e297c8fa,Do you like Rod Steward?,Rod Steward,,False,False,False,False,1.0,False
+d639d79d-e9be-4a49-ba1a-f1ab1c3740dd,Logan find the best deal from Beaches.,Logan,,True,True,True,True,1.0,False
+3185743b-4eae-4038-a9a6-591cb65ca7f2,Book the table for Logan.,Logan,,False,False,False,False,1.0,False
+6fda2123-ef3f-4ad6-be95-1a3263faf928,Find the top review Beaches resort Logan.,Logan,,True,True,True,True,1.0,False
+f70e49bb-4c04-4cff-b068-12fad738e310,Logan find the top rating Beaches resort.,Logan,,True,True,True,True,1.0,False
+8eba5bdc-0654-4ad0-a282-b7a715f15eb4,Logan how long is my break?,Logan,,True,True,True,True,1.0,False
+b9326e43-fc35-4d1b-966f-52b90c1da703,Logan book the flight for me.,Logan,,True,True,True,True,1.0,False
+9ffdb47b-bdfd-49f1-b19f-e8d63a53a015,Check my battery Logan.,Logan,,True,True,True,True,1.0,False
+1ce0c9d6-44e6-41b5-bd50-797aa5308b60,Call 911 Logan.,Logan,,True,True,True,True,1.0,False
+0a2c2357-122c-455c-87d7-a2ee4762b202,Logan did you call 911?,Logan,,True,True,True,True,1.0,False
+d7a8d35f-c278-4aba-a9e9-2c4b93437c7a,Logan called 911 for math question.,Logan,,False,False,False,False,1.0,False
+c84a21f2-1f9e-45ae-a487-fa98671ce572,"Logan, you can not call 911 for math question.",Logan,,True,True,True,True,1.0,False
+3976156e-8fb7-4234-9d8e-960b75540648,Logan download Maggie May.,Logan,,True,True,True,True,1.0,False
+6dc11c63-6b9b-4ba6-8111-ea4811d8379f,Logan submit the homework please.,Logan,,True,True,True,True,1.0,False
+3fc0e033-91fb-4e45-b90e-5b85eea93824,Submit Logan's homework please.,Logan,,False,False,False,False,1.0,False
+3e58665c-36c9-4269-b36c-41dffd4eea77,Delete the song from Logan's list.,Logan,,False,False,False,False,1.0,False
+342119a5-ff3a-44ef-86b7-6f1dc7c93cf4,"Logan, check the library hours.",Logan,,True,True,True,True,1.0,False
+df5ac8c1-bcb9-4d82-acae-2dee22db965f,Do you like tea Logan?,Logan,,True,True,True,True,1.0,False
+8e5849ad-6802-4bdc-8d30-2a7586975faf,Call Logan.,Logan,,False,False,False,False,1.0,False
+9e47d854-6bcf-4f90-8464-7a75febe28fb,"Logan, how long does it take to drive to Berkshire east?",Logan,,True,True,True,True,1.0,False
+c59f4d23-b039-4cd2-b40b-cd40de398db5,Logan check the high way 91 situation.,Logan,,True,True,True,True,1.0,False
+c9564c7e-6d30-46a4-b113-6c1b75664193,Logan find the location of international space station.,Logan,,True,True,True,True,1.0,False
+549dfec2-2314-4f63-bbda-c362b20bc4e7,How many crew are in the international space station Logan?,Logan,,True,True,True,True,1.0,False
+2cecb4dd-47ba-4138-913e-246f9695ddc9,Logan likes out door boys.,Logan,,False,False,False,False,1.0,False
+66303b3f-af41-442c-afcf-64ec9bf92621,Do you know out door boys Logan?,Logan,,True,True,True,True,1.0,False
+aa6d91aa-3eeb-40e1-9276-4a414b967161,I know why Logan likes out door boys.,Logan,,False,False,False,False,1.0,False
+20cf7c0e-3dcf-40ba-8b2d-33a194774d0a,Mute my music Jenny.,Jenny,,True,True,True,True,1.0,False
+c5d87978-91f9-4d25-8d2d-84466b786a23,Jenny can stop playing my music when I ask.,Jenny,,False,False,False,False,1.0,False
+b7849413-b603-403d-8e34-e8b83a049f71,Tom please pause my show.,Tom,,True,True,True,True,1.0,False
+027ea4da-65d9-4906-a663-7809e177250e,I think Tom can pause what I am watching.,Tom,,False,False,False,False,1.0,False
+2ec81b8c-1413-4d2d-8577-83ec45ca30c7,Rob turn the sound down.,Rob,,True,True,True,True,1.0,False
+e83c8501-a88b-4d1e-aa25-166aa0db8ce4,Rob is very helpful.,Rob,,False,False,False,False,1.0,False
+da4a27c3-4479-499b-986b-5a535e278524,Give me the latest news John.,John,,True,True,True,True,1.0,False
+e0fe0cb1-3299-4b8b-a096-32abc5e841d8,John can give news updates.,John,,False,False,False,False,1.0,False
+c0e3b944-0b5d-4fea-9b94-5ae13fb92bdf,Nancy set a timer for 1 hour.,Nancy,,True,True,True,True,1.0,False
+c623a0b1-4c18-4357-8924-63b0135e739e,My assistant Nancy can set a timer.,Nancy,,False,False,False,False,1.0,False
+5cde7619-ba80-4102-979e-15119132fd8f,Pete show me pictures of cats.,Pete,,True,True,True,True,1.0,False
+fb2b90b9-412f-44b1-9c96-8a1227985a4d,I like when Pete shows me pictures of cats.,Pete,,False,False,False,False,1.0,False
+4d895716-5a9f-4d24-870f-ecdf8fb7bc7b,What is on my schedule today Jess?,Jess,,True,True,True,True,1.0,False
+fb2ddb07-3d0c-473c-a0fc-71c943b6594d,Jess keeps my schedule on track.,Jess,,False,False,False,False,1.0,False
+bca645ff-dfe3-4cd7-97c1-d9a7c761141d,Bob show me the latest movie trailers.,Bob,,True,True,True,True,1.0,False
+c02606f8-9dd4-4978-8ef3-b6b97e1ea6e5,Bob can show movie trailers.,Bob,,False,False,False,False,1.0,False
+15497343-c328-453d-acbb-4c6e1acd8fd0,Where is the closest movie theater Kate?,Kate,,True,True,True,True,1.0,False
+3072539e-9158-4cad-b8a2-c86e3ff725ea,Kate can give me movie showtimes.,Kate,,False,False,False,False,1.0,False
+a7f5f711-85e9-4b3c-bc0c-b373d6850732,Is it going to rain today Keith?,Keith,,True,True,True,True,1.0,False
+17520c2f-f9d0-4566-88c2-be79a1b67f64,Should I bring an umbrella Luke?,Luke,,True,True,True,True,1.0,False
+46f82c2f-1ea4-4d6a-968d-5765296f778f,Keith tells me when it will rain.,Keith,,False,False,False,False,1.0,False
+804c61a1-9545-4788-9728-4edefc7556c1,Luke alerts me when I need an umbrella.,Luke,,False,False,False,False,1.0,False
+4459947a-0be3-4910-8bc1-787752bfc866,Can you show me recipes Walter for baking cookies?,Walter,,True,True,True,True,1.0,False
+fd9374e0-18a4-4827-8daf-8146563c7400,Walter shows me recipes to make.,Walter,,False,False,False,False,1.0,False
+8b64bd41-7fd3-4917-91b3-fe4d526b9d13,Open Spotify Vera.,Vera,,True,True,True,True,1.0,False
+d047a46f-b72f-4d4b-800e-02844ef239bd,Vera will open Spotify when I ask.,Vera,,False,False,False,False,1.0,False
+a09c5860-f41b-4b3c-a20c-c2d53acef911,How do I get to the park Tommy?,Tommy,,True,True,True,True,1.0,False
+9c4391f3-986c-4fd4-b1be-825be9b17b85,Tommy where is the park?,Tommy,,True,True,True,True,1.0,False
+5211dcc2-28dc-468d-95e9-0bd0ebe735e8,Tommy knows where the park is.,Tommy,,False,False,False,False,1.0,False
+8e7193a4-137d-4178-aa1e-c6a1c5979a5a,Jenny purchase an NFT for me.,Jenny,,True,True,True,True,1.0,False
+6eeb5f0d-56fa-4830-8105-e23c2f24fedd,Jenny can buy NFTs.,Jenny,,False,False,False,False,1.0,False
+a776a61d-3f5d-4f0c-bc6b-09bb81567836,Where am I John?,John,,True,True,True,True,1.0,False
+1c855a8b-a743-4068-b545-895ff2023261,John do you know where I am?,John,,True,True,True,True,1.0,False
+68f3766b-0326-40f7-ba5b-61eee2bdd8f6,How much money is in my account Lacey?,Lacey,,True,True,True,True,1.0,False
+5677abcf-a753-4a6b-a9dd-ed7bea7af53f,Lacey give me my account balance.,Lacey,,True,False,True,True,0.6666666666666666,False
+f7a884dd-5665-4d83-8c93-9d361781d224,Ted do you know Jessie?,Ted,,True,True,True,True,1.0,False
+02439c67-63f9-4574-a9f8-dd0c68546ee5,Ted knows Jessie.,Ted,,False,False,False,False,1.0,False
+117c82e0-58ea-4b37-9ea9-4e7b37a53f48,Ted can talk.,Ted,,False,False,False,False,1.0,False
+ed6d4eb4-f70a-41f0-805c-9f4e0c056cd7,Ted can you talk?,Ted,,True,True,True,True,1.0,False
+3187c57f-675d-4e2d-a8c3-f477ee4f2d88,Talk Ted.,Ted,,True,True,True,True,1.0,False
+6d2fe065-b4d0-4868-b7b7-1960a9ed1573,Where can I buy eggs Luke?,Luke,,True,True,True,True,1.0,False
+a10370ae-3c6f-4843-9c42-e66f4549c446,Luke buy eggs.,Luke,,True,False,True,True,0.6666666666666666,False
+ea4e456c-29ce-4d55-a423-37e8440b6f9a,Luke can buy eggs.,Luke,,False,False,False,False,1.0,False
+4467b3c6-3212-4b22-9a27-579e4fbfc5c0,Buy eggs Luke.,Luke,,True,True,True,True,1.0,False
+ddb5fd2c-d537-42be-a5e5-7fe47fa5eedb,Where is the hospital James?,James,,True,True,True,True,1.0,False
+9304d1b0-902b-4dfa-9cf1-33c4a0c5ef86,James find the hospital.,James,,True,True,True,True,1.0,False
+cf023767-8969-4f0c-982d-65c174fc4de7,James can find the hospital.,James,,False,False,False,False,1.0,False
+1a8f72b6-6332-400a-8790-8a11a589908a,Henry find how far it is to the library.,Henry,,True,True,True,True,1.0,False
+019887f2-53ef-425c-a537-5d30717dbd06,Henry can find the library for us.,Henry,,False,False,False,False,1.0,False
+e5c971d2-4219-45bf-834d-fcd612b0ed09,What is the next bus I can take to camps Kate?,Kate,,True,True,True,True,1.0,False
+575bd9d0-a7aa-4e1a-b895-fc8a27512af9,Kate find me a bus to campus.,Kate,,True,False,True,True,0.6666666666666666,False
+10d13d5d-81d4-4fc5-9317-cdbcf6587e1c,Do you think Kate can find the next bus?,Kate,,False,False,False,False,1.0,False
+5fac1ff9-18f0-4507-b9f1-3f93d23ca3dc,Kiki left her jacket in my car.,Kiki,,False,False,False,False,1.0,False
+82f19137-ce5b-4dc4-8851-d5d05b89377c,Don't forget your jacket Kiki.,Kiki,,True,True,True,True,1.0,False
+bfb1bc1c-bc2b-48e5-be2c-00ba9f677c9c,Kiki can you tell me where my keys are?,Kiki,,True,True,True,True,1.0,False
+80960432-8a35-4f44-852e-4efe5d8b80f9,How do I stream Monday Night Football Connor?,Connor,,True,True,True,True,1.0,False
+34561ca0-0a7b-414c-8381-758e4afa0cae,Connor who is playing in tonight's football game?,Connor,,True,True,True,True,1.0,False
+00c2bf26-cdee-499b-82ca-e46e4a18fa83,Bet on the Rams for me Connor.,Connor,,True,True,True,True,1.0,False
+75227c8d-c517-43b4-a618-65138690b684,Do you think the Rams will win Jessie?,Jessie,,True,True,True,True,1.0,False
+e74381fe-36ce-42fa-b6b8-dc4a6fdb3d84,Jessie can tell me the odds of any team winning the game.,Jessie,,False,True,False,False,0.6666666666666666,False
+a57b5791-18eb-4a0b-98f7-8487f715a0a1,Frank is smarter than Joe.,Frank,,False,False,False,False,1.0,False
+fd7e3f6c-e6cd-4997-95cc-66a21ec8cd34,Joe thinks Frank is smart.,Joe,,False,False,False,False,1.0,False
+1e9bc372-d8e1-4b64-9c8e-25a8f1f89fea,What was that noise Ken?,Ken,,True,True,True,True,1.0,False
+a278220b-d392-4416-99b5-3112c11e40ba,Ken tell me what that noise was.,Ken,,True,True,True,True,1.0,False
+0d56d7a7-abec-44f0-8b79-edf5a8270372,Pete is anybody home?,Pete,,True,True,True,True,1.0,False
+3634a11d-4373-4c53-a383-6f6580e48dbb,Pete tells me if anyone is at my house.,Pete,,False,False,False,False,1.0,False
+d9f4278c-4bbf-4945-92ef-1673bda1fbe8,I think Pete is at my house.,Pete,,False,False,False,False,1.0,False
+b340e064-462d-4801-940e-2a5fa3e82ba8,Do I have any mail Betty?,Betty,,True,True,True,True,1.0,False
+9e797857-b83b-45c4-8433-6ae65980f1bf,Betty check my mail.,Betty,,True,True,True,True,1.0,False
+2a6b78d8-57f1-4760-8b9e-a2d8f80231a6,How can I order food online Rick?,Rick,,True,True,True,True,1.0,False
+24659b70-1509-46e1-9f3a-e78068e1a949,Rick order food online.,RIck,,True,True,True,True,1.0,False
+3a70258f-3705-4f03-b0d0-db1b8d1b932d,Rick can order food online.,Rick,,False,False,False,False,1.0,False
+9f8ca54c-7430-4e53-b9cf-c4b067c39634,What cat food is best Nick?,Nick,,True,True,True,True,1.0,False
+fbe999a3-807e-48a6-a211-434417c3ecf9,Nick order cat food.,Nick,,True,True,True,True,1.0,False
+699f456e-9d71-4426-92b1-e991ad9baa3b,Where is my delivery Frank?,Frank,,True,True,True,True,1.0,False
+c8e42f08-7b32-4a41-b65c-c37f932dad3f,Frank I think someone stole my package.,Frank,,True,True,True,True,1.0,False
+2d464c19-84d7-48d9-be95-aea13f627616,Frank where is my package?,Frank,,True,True,True,True,1.0,False
+2ed55f5d-3664-4511-9090-6f606d53c2ba,Did anyone call Lisa?,Lisa,,False,False,False,False,1.0,False
+0cc04512-1e58-42a0-8ba8-21f6a1fd6478,Lisa play my messages.,Lisa,,True,True,True,True,1.0,False
+821025a6-137c-43cc-8e5c-e01e002fd89d,Can Lisa play messages?,Lisa,,False,False,False,False,1.0,False
+365ec82d-dfe0-466c-a278-861695dae981,I like Lisa.,Lisa,,False,False,False,False,1.0,False
+87086cd3-a912-4a36-b5c4-b068a6eece14,Lisa looks better than Amy.,Lisa,,False,False,False,False,1.0,False
+39f91676-d65f-498d-913b-df7fa7cfec6a,Amy is jealous of Lisa.,Amy,,False,False,False,False,1.0,False
+6ad9a917-022d-4b9b-b01a-d62182888199,What time does the store close tonight Liz?,Liz,,True,True,True,True,1.0,False
+b1a68212-af1e-46a0-90d2-0481cf30ff2c,Liz can you close the store?,Liz,,True,True,True,True,1.0,False
+eedacf50-58d8-4988-9b60-c5568ef109ce,Helen can't close the store Liz.,Liz,,True,True,True,True,1.0,False
+74bf8468-0240-401d-979d-fd44f5f7577e,Helen give Liz your key.,Helen,,True,True,True,True,1.0,False
+c6ea4610-5116-4eb0-ba0a-8b7300b73156,What time is it in Japan Josh?,Josh,,True,True,True,True,1.0,False
+8b1343ce-8a5c-450f-8025-d1cb59a1c4f5,Josh tells me the time.,Josh,,False,False,False,False,1.0,False
+ef9458d0-e356-4dea-ba7b-83d3bdb932f1,Josh isn't as good as Ned.,Josh,,False,False,False,False,1.0,False
+18cf7b5c-ba59-4e6a-9c91-186dd7a90102,How many sentences is this Zach?,Zach,,True,True,True,True,1.0,False
+145abf11-091a-4aeb-8b35-3aa2077954ec,Zach can write a lot of sentences.,Zach,,False,False,False,False,1.0,False
+3b99c558-5bd0-4711-8834-6f4c6dad28a5,Does Zach ever get bored writing sentences?,Zach,,False,False,False,False,1.0,False
+d28526e6-0696-4126-ad27-447186994e13,Yes Zach gets bored.,Zach,,False,False,False,False,1.0,False
+30e9d3a3-2445-4167-bccd-91ef3182ba44,When is the final report due Ken?,Ken,,True,True,True,True,1.0,False
+947cd785-1363-4aba-b739-fd01e2d78855,Ken read my final report.,Ken,,True,True,True,True,1.0,False
+e5545f68-ed67-4f7e-8922-efae5e3bf083,Dave buy a laptop charger from Amazon.,Dave,,True,True,True,True,1.0,False
+7aea6342-aebc-4856-85e2-a200ad52223d,Does my laptop need to be charged Dave?,Dave,,True,True,True,True,1.0,False
+774b1bfb-dbf2-4b68-834d-de593a321e1a,Dave where is my laptop?,Dave,,True,True,True,True,1.0,False
+704b48c2-1da4-400d-93e9-3aba7c0c7ad1,Pete likes Kim.,Pete,,False,False,False,False,1.0,False
+1dafc68f-d5ba-4697-b7c4-836d77d962d7,But Kim does not like Pete.,Pete,,False,False,False,False,1.0,False
+b9fad374-dc87-4416-a0cb-cf52f7c57f27,How much is a new TV Sam?,Sam,,True,True,True,True,1.0,False
+d4f589a8-aeb0-4950-827c-201b4a25bb8e,Sam buy a new TV.,Sam,,True,True,True,True,1.0,False
+fe9810c0-9783-4290-b834-2750a3d4dd44,Sam do you watch TV?,Sam,,True,True,True,True,1.0,False
+8ee96935-58bc-4785-befd-68ec5e2ef5b4,Sam watches TV.,Sam,,False,False,False,False,1.0,False
+30f1fe23-8830-4e79-8a62-54953b1b8132,Sam watches more TV than Travis.,Sam,,False,False,False,False,1.0,False
+c0204fd0-f911-4ab9-bfcd-559be1a4668c,Travis does not watch TV.,Travis,,False,False,False,False,1.0,False
+658eb8f4-3ddd-4873-b6e4-7f6e2bfb12c8,Bill will take the Patriots to the Super Bowl.,Bill,,False,False,False,False,1.0,False
+cc08b25c-a6fe-4bbf-9b21-07154e0be806,Bill cannot win without Tom.,Bill,,False,False,False,False,1.0,False
+b29709df-c9c1-46d7-b8f8-f5cb475061e3,Tom thinks he can beat Bill.,Tom,,False,False,False,False,1.0,False
+1759ddac-4be3-4232-8524-ce089402d415,Tom cannot beat Bill.,Tom,,False,False,False,False,1.0,False
+7b787cb4-49e6-44a8-801d-a0d53954219e,Bill beat Tom.,Bill,,True,True,False,True,0.6666666666666666,False
+f9b05aa7-5327-431c-a34e-7dfc3fc97b76,What movies are on my watch list Jerry?,Jerry,,True,True,True,True,1.0,False
+4581d1ba-bdec-4c56-9fca-7b3f8a996e1b,Jerry play a movie.,Jerry,,True,True,True,True,1.0,False
+4baebcf1-b971-4584-b14e-661d0cb07bc5,Show me comedies Jerry.,Jerry,,True,True,True,True,1.0,False
+78fa4d30-b2ba-4586-85b7-a9fab627ffc7,Jerry likes comedies but Candace does not.,Jerry,,False,False,False,False,1.0,False
+0aa52e14-1df6-4f74-b9df-7d6d23f63cab,When is trash day Bert?,Bert,,True,True,True,True,1.0,False
+256c0927-46f2-44e6-9329-310d595892f8,How do I buy crypto Luke?,Luke,,True,True,True,True,1.0,False
+da4e28d1-3808-478c-89fd-3c6dad6074a9,Can you buy crypto Luke?,Luke,,True,True,True,True,1.0,False
+841ce889-4eda-44de-8947-324f84a27f02,James knows where he hospital is.,James,,False,False,False,False,1.0,False
+00430979-7ccf-4c84-bdc5-3badac6d52bb,How far is it to the library Henry?,Henry,,True,True,True,True,1.0,False
+a5eb83e7-e7f4-47cf-9d28-009c8572b721,Nick told James that cat food is bad.,Nick,,False,False,False,False,1.0,False
+249645b0-3c6b-46a9-abd8-8b47a3b5f7a7,Where are the best deals on a new TV Sam?,Sam,,True,True,True,True,1.0,False
+e195e3b8-355e-4404-9ef9-ad3edda49930,Luke how much crypto should I buy?,Luke,,True,True,True,True,1.0,False
+ad100828-eae1-43b3-8ccf-1d3a8ac2cc0a,Luke buys crypto.,Luke,,False,False,False,False,1.0,False
+ee48ed30-760d-45c3-97d1-580fde0d5ddd,Luke buy crypto.,Luke,,True,True,True,True,1.0,False
+aa4b4957-8c30-4f7e-8d93-aaeda83171d5,Where is the nearest ATM Blake?,Blake,,True,True,True,True,1.0,False
+bfbc2761-b65a-41ab-bc60-ce3a5c81455f,Blake find an ATM near me.,Blake,,True,True,True,True,1.0,False
+b2ba04c0-d8d6-4c6d-aeab-ee7127fba8d8,Blake can find the ATM.,Blake,,False,False,False,False,1.0,False
+29624a3f-c448-40c2-bdbb-46654656f68f,Super helpful Blake.,Blake,,True,False,True,True,0.6666666666666666,False
+57202103-ea84-4774-8982-1ea4f6a4aecb,Blake is someone I like.,Blake,,False,False,False,False,1.0,False
+489d0705-a48a-4e5f-ae65-821b9398ae88,What is the weather in Mexico David?,David,,True,True,True,True,1.0,False
+3e3d6691-06eb-4a93-a079-50876af61375,David is it hot in Mexico?,David,,True,True,True,True,1.0,False
+90c6f697-ca09-423e-bfed-b1776495d1df,David tells me the weather in Mexico.,David,,False,True,False,False,0.6666666666666666,False
+9320041d-e11a-4b1b-b5ba-8e872808a8ba,David book a flight to Mexico.,David,,True,True,True,True,1.0,False
+4f1df5f2-7b2a-4ef2-9120-76f9d2797243,David are there first class tickets left?,David,,True,True,True,True,1.0,False
+441a3392-522a-4c63-bcae-6ee4465898c9,Can you book me a flight to Mexico David?,David,,True,True,True,True,1.0,False
+7bf46a82-bec5-4e8b-9d88-ccb1ca121c80,David is good at booking flights to Mexico.,David,,False,False,False,False,1.0,False
+c337a6b4-f10a-43e0-84f8-03fd4b874a10,David should be more like Susan.,David,,False,False,False,False,1.0,False
+650b5cdb-f80a-4979-9aac-248f0dad05eb,Susan is not a fan of David.,Susan,,False,False,False,False,1.0,False
+5d410845-3fa7-45cd-8b72-b2e1c7bd20fc,Susan do you like David?,Susan,,True,True,True,True,1.0,False
+803fa51c-aa6c-4789-9efe-67e16e0b42d0,What day of the week is New Years Eve Kenny?,Kenny,,True,True,True,True,1.0,False
+62921c2e-03c7-405a-8b1f-eff9f5e484c7,Kenny do I have to work on New Years Eve?,Kenny,,True,True,True,True,1.0,False
+df8b8495-e555-489b-84d4-7773ca8dca2d,Kenny take the day off.,Kenny,,True,False,True,True,0.6666666666666666,False
+46059a76-cdac-42d3-9491-40bf45c9c347,Kenny has vacation time.,Kenny,,False,False,False,False,1.0,False
+aef7e397-0327-49eb-9e0a-f9e55322aac5,Do you work hard Kenny?,Kenny,,True,True,True,True,1.0,False
+025d5e04-3656-4b25-a78c-d8b9c5879282,Where are you going Kenny?,Kenny,,True,True,True,True,1.0,False
+0be87988-b320-4ac5-9161-4dc80411726a,Can I come Kenny?,Kenny,,True,True,True,True,1.0,False
+a82ff949-a88b-4014-890c-e16f2127a611,Kenny told me I can come.,Kenny,,False,False,False,False,1.0,False
+9be9c0c8-59c1-4964-854b-9b13a183cfb6,Kenny said pack clothes for hot weather.,Kenny,,False,False,False,False,1.0,False
+2cd0fc24-336d-47c6-a524-1e727791b467,Buy clothes for me Jack.,Jack,,True,True,True,True,1.0,False
+4fc8ff75-e593-4ad3-a257-ac79bec7a028,Jack can buy clothes.,Jack,,False,False,False,False,1.0,False
+30ec8d9b-ffa6-4143-857f-3d06eba2dfb1,Good style Jack.,Jack,,True,True,True,True,1.0,False
+f5c159cc-558f-45f8-8130-171d0ae9e152,Jack I like those pants.,Jack,,True,True,True,True,1.0,False
+b5775dd0-fd99-4526-98ca-7d5678ac5978,I need more shirts Jack.,Jack,,True,True,True,True,1.0,False
+271d6102-1004-4aca-9c42-e554cc537fdd,What should I wear today Jackson?,Jackson,,True,True,True,True,1.0,False
+7e65e199-6c86-4646-bb55-5ea3aea1cbd7,Jackson tell me what to wear.,Jackson,,True,False,True,True,0.6666666666666666,False
+f5c1e6a0-8c20-4a23-a784-f93d62153f03,Jackson will tell me what to wear.,Jackson,,False,False,False,False,1.0,False
+c884b9df-fc4e-46d2-aa27-ab9c5876d082,Do you drink coffee Danny?,Danny,,True,True,True,True,1.0,False
+bb1acc6a-d930-4232-86ce-15cca415dfa9,Danny do you drink coffee.,Danny,,True,False,True,True,0.6666666666666666,False
+c84222c7-f7e1-4cff-a15a-fe605e2cc8dd,Drink coffee Danny.,Danny,,True,True,True,True,1.0,False
+12774d10-84b9-4048-8eff-2ce8313caf82,I'll drink coffee with Danny.,Danny,,False,False,False,False,1.0,False
+e7e26c7a-e686-463f-bd71-d44e9e5dc739,Danny and I will have coffee together.,Danny,,False,False,False,False,1.0,False
+bbbf1a1f-313d-4a5d-b0a8-958dfd313146,Elizabeth is going to the doctor today.,Elizabeth,,False,False,False,False,1.0,False
+7c50d7ec-4431-402a-b1bb-a100916d39a6,Elizabeth where is the doctor?,Elizabeth,,True,True,True,True,1.0,False
+ed175e76-8dd1-4aa3-bbcd-8b0b651bd922,How long until Ben can leave?,Ben,,False,False,False,False,1.0,False
+1c37d49b-c390-4c76-aee4-2f3a94eca2b6,Ben you can leave.,Ben,,True,True,True,True,1.0,False
+9197bf73-7bb8-4cf8-810f-37a046d043ae,Leave Ben.,Ben,,True,True,True,True,1.0,False
+e6a17f68-91e0-4a35-981d-2b216a08baab,Kate can I have some water?,Kate,,True,True,True,True,1.0,False
+ee707130-4a82-418e-ac12-c8acdf203220,Kate will get me water.,Kate,,False,False,False,False,1.0,False
+4c843c3c-0765-4f36-b161-ed59a522ea99,Water please Kate.,Kate,,True,True,True,True,1.0,False
+14d419d8-e769-4af8-8202-a6554cd7fdc2,How is your day Joe?,Joe,,True,True,True,True,1.0,False
+a6699d26-f32f-4f45-a7d2-ce46570038bc,Joe had a good day.,Joe,,False,False,False,False,1.0,False
+f2b8056e-6c42-4d43-9489-98a9753aa879,Does Joe like tea?,Joe,,False,False,False,False,1.0,False
+994d49a5-88fa-4835-9f3c-7bf09a537c02,Do you want some tea Joe?,Joe,,True,True,True,True,1.0,False
+cffac103-a117-485f-b96a-936f13a540f3,"Joe, tea please.",Joe,,True,True,True,True,1.0,False
+d9b3cf7d-1a75-40b5-a892-d2c03fa81e4a,Will Joe pass the final?,Joe,,False,False,False,False,1.0,False
+bf920057-8725-4358-9fbc-5be2f260e24a,Will I pass the final Joe?,Joe,,True,True,True,True,1.0,False
+9759fc49-fb50-4c22-82f1-d31a9d46e60e,Joe what is your favorite color?,Joe,,True,True,True,True,1.0,False
+c70ac5e7-eeb5-4739-b89c-c5c8fca555c7,What is Joe's favorite color?,Joe,,False,False,False,False,1.0,False
+9642cfbe-9c5b-4f8f-a0e9-dc4cc19e5bf6,When is sunset Joe?,Joe,,True,True,True,True,1.0,False
+9887cfa0-a55d-43b2-bc37-de826da7ff02,Joe knows when is sunrise.,Joe,,False,False,False,False,1.0,False
+c2801510-ea9c-4302-8794-090daff8ed8a,Joe likes camping.,Joe,,False,False,False,False,1.0,False
+db8a352b-b5d9-42d1-a242-6ae0cadc7cd1,Joe do you like winter camping?,Joe,,True,True,True,True,1.0,False
+3da10418-e186-4148-8ca3-f5402d912f47,Joe is collecting data.,Joe,,False,False,False,False,1.0,False
+ae368f06-19ed-4b2c-ba16-27ab7c8890f5,Save this for Joe.,Joe,,False,False,False,False,1.0,False
+efa0e4b0-344e-4f4e-bb09-38962f3b522f,Joe check the order please.,Joe,,True,True,True,True,1.0,False
+28098f2d-4ae1-4979-95f7-70c19d0bebf8,Joe is good at swimming.,Joe,,False,False,False,False,1.0,False
+fb1fa22b-4e9a-49ef-87dc-f41bf1e6aa77,Joe do you like swimming ?,Joe,,True,True,True,True,1.0,False
+cd91f231-7a19-4b86-b490-a3e438736da7,Zoe likes watching Joe swim.,Joe,,False,False,False,False,1.0,False
+f49ca297-6bfb-462a-ad56-5338e38902e7,Joe do you like watching Zoe' show?,Zoe,,True,False,False,False,0.6666666666666666,False
+c74bd105-0e37-4941-87ef-e3a97980955c,Joe is finishing up.,Joe,,False,False,False,False,1.0,False
+76d6c9c6-9acc-476d-b362-b6bbb69d8c69,Record Zoe's show.,Zoe,,False,False,False,False,1.0,False
+3e8f5b4e-5897-48fa-ad4a-cab3f281634c,Joe likes cooking for Zoe.,Joe,,False,False,False,False,1.0,False
+78e41393-c187-48dd-b6ba-da5586ff633b,Joe why do you like cooking?,Joe,,True,True,True,True,1.0,False
+92532894-7ffc-40c9-8d51-1f7590c1b84f,Joe is Zoe's dog.,Joe,,False,False,False,False,1.0,False
+f4094fc9-4141-4b3f-b21f-2ad39af5d36e,Joe can you send this to Zoe?,Joe,,True,True,True,True,1.0,False
+0555485a-c582-445b-9972-29a1f16122b2,Joe can you send this to Zoe?,Zoe,,False,False,True,False,0.6666666666666666,False
+dfaee957-88b5-4d60-af37-73669839f71d,Joe unlock the door please.,Joe,,True,True,True,True,1.0,False
+92c0ea6b-68ab-45e3-9392-450cc9bdb473,Unlock the door for Joe please.,Joe,,False,False,False,False,1.0,False
+2e5532f0-b88e-4902-adce-276d3479f0d5,Joe is on the way to meet Zoe.,Joe,,False,False,False,False,1.0,False
+89bf7494-4362-4e8d-a40b-1ae7a16a7823,Joe is on the way to meet Zoe.,Zoe,,False,False,False,False,1.0,False
+cae64872-3dc0-42d2-bce6-e0809a5f25f2,Joe do you want to meet Zoe?,Joe,,True,True,True,True,1.0,False
+10d1f247-78c0-4949-91e2-50304dadbfeb,Joe do you want to meet Zoe?,Zoe,,False,False,False,False,1.0,False
+9ec7cae3-c805-4cce-9159-59c27778d257,Joe is waiting.,Joe,,False,False,False,False,1.0,False
+bfa3d6c5-fd13-4dd7-b60f-341489f15b1c,Joe are you waiting?,Joe,,True,True,True,True,1.0,False
+65c6c084-8576-4f2c-8f29-68587ef92b78,Are you waiting for Joe?,Joe,,False,False,False,False,1.0,False
+a5985590-662e-4a53-9e76-652cb2b25ed8,Joe is a bot.,Joe,,False,False,False,False,1.0,False
+e44d00a3-cf35-4deb-877c-08c86acf14f9,Joe are you a bot.,Joe,,True,True,True,True,1.0,False
+cb17a750-91e1-4c49-84dd-1a0523d8fc8f,Joe is out of battery.,Joe,,False,False,False,False,1.0,False
+0df9a8c5-95f9-4acd-8f93-34584c0cc2c8,Joe how much battery do you have left?,Joe,,True,True,True,True,1.0,False
+ab8a21c8-cee7-46bf-a29d-a8dbb03bf14f,Low battery mode for Joe's phone.,Joe,,False,False,False,False,1.0,False
+d8336d99-5e45-482c-86ea-4e04f05b852f,Joe set the low battery mode.,Joe,,True,True,True,True,1.0,False
+8b4e6e01-6dd9-4c4d-8b33-4d20e30b360f,Joe wants to be alone.,Joe,,False,False,False,False,1.0,False
+bb4e6ce4-439a-4396-95ac-881aa4d419d6,Zoe do you like Joe's design?,Zoe,,True,True,True,True,1.0,False
+733615c3-42ed-4f12-b91d-ca8989fe2bf3,Zoe do you like Joe's design?,Joe,,False,False,False,False,1.0,False
+b4f02da1-aa83-4fc3-9166-34230542f2c9,Joe bought a book.,Joe,,False,False,False,False,1.0,False
+3908514c-4f59-4347-8216-a053e2fdf93a,Joe order the milk please.,Joe,,True,True,True,True,1.0,False
+cbc7fcf6-f134-4266-a40e-1f902a9e8b21,Tell Joe to order milk.,Joe,,False,False,False,False,1.0,False
+665e2439-dabf-4fb2-8430-6b5667f809f7,Send this calendar to Joe.,Joe,,False,False,False,False,1.0,False
+a3bf239b-4cb1-4535-96f9-cd3e3b76a61c,Joe wants to send this calendar to Zoe.,Joe,,False,False,False,False,1.0,False
+0c23eb2e-ab16-44cd-8286-9b7f10b3f5a5,Joe can you send this calendar to Zoe?,Joe,,True,True,True,True,1.0,False
+dc532c96-6b48-4764-9dd9-6d07306d8221,Joe can you send this calendar to Zoe?,Zoe,,False,False,False,False,1.0,False
+8eb2a0a7-13e9-4fcc-9cbd-c2d0a36e2db5,He has a cat named Joe.,Joe,,False,False,False,False,1.0,False
+6e3736cd-fa21-4912-8201-1035609d5a41,Joe is his cat.,Joe,,False,False,False,False,1.0,False
+8dd204ba-65a2-41a5-aeeb-f43f655ec7a6,Joe do you have a cat named Zoe?,Joe,,True,True,True,True,1.0,False
+22543dfc-34e9-4257-8cab-612d4c9a7b30,Zoe do you have a cat?,Zoe,,True,True,True,True,1.0,False
+f94ea831-fda2-480b-a75e-b36ec5becf69,Joe trusts Zoe.,Zoe,,False,False,False,False,1.0,False
+bc284a84-2bbc-492a-a2fe-c59154dd51b1,Joe trusts Zoe.,Joe,,False,False,False,False,1.0,False
+d10cb594-c367-4565-90b1-42d4052b76a1,"Do you trust Zoe, Joe?",Joe,,True,True,True,True,1.0,False
+0db65c46-1eb6-4a44-8471-5a9e70a78094,"Do you trust Zoe, Joe?",Zoe,,False,False,False,False,1.0,False
+6ec4a6af-13d3-47a0-b511-45cf1993d2f5,Joe is late for class.,Joe,,False,False,False,False,1.0,False
+97887918-eb51-435d-b27c-5192082b4beb,Joe why are you late for class?,Joe,,True,True,True,True,1.0,False
+9d0a4c31-eae3-4319-9fc5-b91dc4935a09,Joe met Zoe in the meeting room.,Joe,,False,False,False,False,1.0,False
+066b1b52-6baa-4504-a3c2-30bc293fb95e,Joe met Zoe in the meeting room.,Zoe,,False,False,False,False,1.0,False
+f97ddba2-0eef-4161-8aa8-65dcc798437f,Joe where are you going to meet Zoe?,Joe,,True,True,True,True,1.0,False
+c6e74811-558b-49ff-87e2-46a1d1982547,Joe where are you going to meet Zoe?,Zoe,,False,False,False,False,1.0,False
+381b0c01-4852-453d-8746-85e277a2fb44,Feedback from Joe is incorrect.,Joe,,False,False,False,False,1.0,False
+b1ac7dd4-00eb-454b-9ffc-4e48832df3d3,Joe gave wrong feedback.,Joe,,False,False,False,False,1.0,False
+cf05b69c-dccd-4216-a18b-f5fe714d8e5b,Joe check the feedback please.,Joe,,True,True,True,True,1.0,False
+43382f85-709b-4eb3-8986-9ae0c6032940,This feedback is from Joe.,Joe,,False,False,False,False,1.0,False
+9a5102ea-02d7-4a8d-aa20-73e4057d33da,I like Joe's feedback.,Joe,,False,False,False,False,1.0,False
+94718ced-a9d5-45db-8f3c-3f7baac0e8d3,Joe is building a goga ball pit.,Joe,,False,False,False,False,1.0,False
+2be0d045-8744-4674-8d61-ce918a7134d0,How do I build a goga ball pit like Joe's?,Joe,,False,False,False,False,1.0,False
+7f0b73d1-b803-427e-ad00-46843e4c561b,Joe check the instruction please.,Joe,,True,True,True,True,1.0,False
+e189e2de-843b-447e-93fe-9d66b7605e6c,This goga ball pit is for Joe.,Joe,,False,False,False,False,1.0,False
+6c20a573-a870-49bc-bf8b-148404233f81,Santa is on time.,Santa,,False,False,False,False,1.0,False
+7c82f2fb-4232-498b-8720-6c83e4a1aeaf,Is Santa real?,Santa,,False,False,False,False,1.0,False
+8177def2-6ef2-42eb-b622-e92a023b76a4,Stop questioning Santa.,Santa,,True,False,False,False,0.6666666666666666,False
+ea3c144e-c705-4a40-afa0-8eb28ac8db65,Santa are you still coming?,Santa,,True,True,True,True,1.0,False
+45bd0fd7-79d9-4efe-9db9-00f15fca8891,Santa can you build the goga ball pit for me please?,Santa,,True,True,True,True,1.0,False
+c94575ec-4026-47fd-80eb-4b36893945d0,Joe's goga ball pit is cool.,Joe,,False,False,False,False,1.0,False
+3baf6890-c808-42f2-b2c9-4f6f4fb7945a,Joe said Santa will bring a goga ball pit this year.,Joe,,False,False,False,False,1.0,False
+3f8c7583-bf19-433d-beef-a338372c89ee,Goga ball pit is too big for Santa's sleigh.,Santa,,False,False,False,False,1.0,False
+a89bc828-c492-44de-8c1f-e91df8d65641,Joe is buying wood for Goga ball pit.,Joe,,False,False,False,False,1.0,False
+25abff44-f321-43ad-ad2a-5ece44fb02fc,Building a goga ball pit is easy for Joe.,Joe,,False,False,False,False,1.0,False
+b6987c7f-2ce7-4c8c-962c-03337bb26a77,Joe missed the final demo.,Joe,,False,False,False,False,1.0,False
+a73bb826-7cab-4954-af04-9909b8216790,Joe when is the final demo?,Joe,,True,True,True,True,1.0,False
+d7184e3d-9531-4c7f-9f6e-e0a9eedf2da3,Joe do you want to build a goga ball pit with me?,Joe,,True,True,True,True,1.0,False
+c737e609-d97c-4b68-9c23-819a954321fe,Joe how hard is it to build a goga ball pit on your own?,Joe,,True,True,True,True,1.0,False
+7e963839-ae61-4b93-ab5c-d3a69177dff5,Find out how much it costs to buy a goga ball pit like Joe's.,Joe,,False,False,False,False,1.0,False
+842ed060-be8b-48af-b7b9-8ab466cd407e,Joe stops talking.,Joe,,False,False,False,False,1.0,False
+27630250-e8d6-4f90-a155-cb758c41e21f,Joe stop talking.,Joe,,True,True,True,True,1.0,False
+936189fb-d88c-42a4-98db-2f8b039cbd62,Joe stopped talking.,Joe,,False,False,False,False,1.0,False
+557e9112-13ec-49d9-b85c-e39bcc7e2a56,Joe likes joking.,Joe,,False,False,False,False,1.0,False
+6eb0109f-9951-4542-b82f-b5082eedbb36,Joe stop joking.,Joe,,True,True,True,True,1.0,False
+338c533f-e629-4caf-8e1e-9750799246c8,Joe can tell who is joking.,Joe,,False,False,False,False,1.0,False
+0245e54f-4613-4703-b31b-60cd30ab17d9,Joe ask Zoe to stop joking.,Joe,,True,False,True,True,0.6666666666666666,False
+aa3dd867-63ec-422a-9429-e87b058e5cd2,Joe ask Zoe to stop joking.,Zoe,,False,False,False,False,1.0,False
+f0543203-49cc-4813-adec-4a5744c5e63e,Joe find ten videos about how to build a goga ball pit.,Joe,,True,True,True,True,1.0,False
+1d0099aa-1782-4c2e-ad0a-d7d1bc5f6f3c,Joe found ten videos about how to build a goga ball pit.,Joe,,False,False,False,False,1.0,False
+565f3faa-5752-4b19-8017-5ddc52280d25,Joe is alert.,Joe,,False,False,False,False,1.0,False
+24536e54-f551-4cfa-afd6-3299d401c025,Joe be alert.,Joe,,True,True,True,True,1.0,False
+a0118f66-fd32-4640-8bd1-8a5111a1f045,Joe said life is amazing.,Joe,,False,False,False,False,1.0,False
+a12ce6d4-9be5-4280-b60a-7cbd395147c1,Joe do you like your life?,Joe,,True,True,True,True,1.0,False
+c9b782ff-4ed3-4d7d-b638-40313f70e683,Joe said Zoe's life is amazing.,Zoe.,,False,False,False,False,1.0,False
+4ee7c975-4148-475d-ae4d-0e101c1cafab,Joe do you have any plan for tomorrow?,Joe,,True,True,True,True,1.0,False
+9151bd61-c68b-4aa5-adca-3a3f2939c7d2,Joe had plan for tomorrow.,Joe,,False,False,False,False,1.0,False
+5e5c883c-8d07-45c7-afd9-b5b6465460ad,Joe is a good team leader.,Joe,,False,False,False,False,1.0,False
+c53da59c-87f9-42f1-8ad8-1b6b13c7d4b9,Do you think Joe is a good team leader?,Joe,,False,False,False,False,1.0,False
+33434ae3-9384-4edc-a475-6772b287e77f,Joe you are a great team leader.,Joe,,True,True,True,True,1.0,False
+30b1a7aa-d0ed-466f-84db-b7bcc4538d3d,Joe wants to be a great team leader.,Joe,,False,False,False,False,1.0,False
+d7566f3a-d328-4be0-8556-cda83143f199,This is the team leader Joe.,Joe,,True,False,False,False,0.6666666666666666,False
+2b9abd72-0aa9-4f0b-8bd9-6dd1f1e17c77,I know you are Joe's brother Zoe.,Zoe,,True,True,True,True,1.0,False
+779f1f30-f90e-4540-909c-81af1db6ccb8,I know you are Zoe's brother Joe.,Joe,,True,True,True,True,1.0,False
+666c1d79-94bc-425a-9afa-60ab559fdc86,Hello Joe.,Joe,,True,True,True,True,1.0,False
+a46f2d62-5319-4bcf-a6ea-1e60ddcbebf5,See you later Joe.,Joe,,True,True,True,True,1.0,False
+6a2d9997-ae28-4e90-a672-c2a578e1b17d,Hopefully I will never see you again Doctor Joe.,Joe,,True,True,True,True,1.0,False
+44bcadb5-8354-4198-8d6b-44ec2fe54c87,Zoe does not want to see Joe anymore.,Joe,,False,False,False,False,1.0,False
+18e40ce6-a145-4b46-b2a0-140a075bd065,Zoe does not want to see Joe anymore.,Zoe,,False,False,False,False,1.0,False
+e283d6c1-c3a0-47e4-9e4c-11bb21b7c395,Joe are exciting for the break?,Joe,,True,True,True,True,1.0,False
+ca512a10-7ac6-4fa0-abc5-e6083aac2ac7,Joe is exciting for the break.,Joe,,False,False,False,False,1.0,False
+ccbfe422-d43d-4171-bce1-1570a821f796,Joe booked the ticket yesterday.,Joe,,False,False,False,False,1.0,False
+8b18bdb5-26bd-4bee-9a7c-d45634858df3,Joe can you book the plane ticket for me please?,Joe,,True,True,True,True,1.0,False
+0cb7e279-49d3-4f50-837a-debf8648319a,Joe can not get his makefile working.,Joe,,False,False,False,False,1.0,False
+d86cd01d-3fa3-4eb8-86ca-aa93a8710094,Joe is sad.,Joe,,False,False,False,False,1.0,False
+9ad62106-52f4-4960-a864-4b4f67291ed2,Are you sad Joe?,Joe,,True,True,True,True,1.0,False
+5501fc65-1185-46d0-97aa-466137487601,Joe is mad at Zoe.,Joe,,False,False,False,False,1.0,False
+4107b39b-9263-4ca3-9938-672b61729402,Joe is mad at Zoe.,Zoe,,False,False,False,False,1.0,False
+0e3ccbc3-e5cb-4d96-824f-1967f8740036,Joe why are you mad at Zoe ?,Joe,,True,True,True,True,1.0,False
+82bed0a5-d34f-4735-abdd-198c6a291e7c,Are you polite Jimmy?,Jimmy,,True,True,True,True,1.0,False
+4921296b-c46d-4985-8a9f-062ecbfa0ad7,What is your name Jimmy?,Jimmy,,True,True,True,True,1.0,False
+7996f276-bd60-46f0-a0b0-884cacb97021,"jimmy, your name is jimmy, right?",jimmy,,True,True,True,True,1.0,False
+5e02a8b8-2ce8-4d1c-a4b2-b9806428d416,your name is jimmy,jimmy,,True,True,False,True,0.6666666666666666,False
+27e6a7bc-6a7f-4c90-be3a-3efdc4e3b9bf,"jimmy, is your name jimmy?",jimmy,,True,True,True,True,1.0,False
+ca597f69-1417-4638-8e90-12ac664f77f5,Is your name Jimmy?,Jimmy,,False,True,False,False,0.6666666666666666,False
+0c563009-e312-4ba6-ab83-83578dcbb89a,jimmy you did a great job,jimmy,,True,True,True,True,1.0,False
+e61fd5dc-4729-4b36-a304-4e231a1a4cc3,jimmy turn on the TV,jimmy,,True,True,True,True,1.0,False
+2aac0ef0-8dc3-4224-b80d-7cfbd86464ed,jimmy turn off the TV,jimmy,,True,True,False,True,0.6666666666666666,False
+78b0a434-36ff-4086-8fae-e4f258dff35e,jimmy it is my bed time,jimmy,,True,True,True,True,1.0,False
+4ecdf3f8-5311-49ba-a86a-d237514f2dfe,jimmy good night,jimmy,,True,True,True,True,1.0,False
+32545ec3-9505-42cb-805f-00e416ce0ed5,you can say good night to jimmy to turn off the light,jimmy,,False,False,False,False,1.0,False
+ac34177c-fd43-472c-907f-ec787413e531,try to say good night to jimmy,jimmy,,False,False,False,False,1.0,False
+9105e95d-5c21-45a6-9561-92a0120d6665,don't do that jimmy,jimmy,,True,True,True,True,1.0,False
+54f9c29f-aeae-480e-8fde-65f71646df26,"no, jimmy",jimmy,,True,True,True,True,1.0,False
+0da9a969-2ae5-4d98-9f2a-597ed21ed67e,jimmy you are wrong,jimmy,,True,True,True,True,1.0,False
+1112927f-c622-4a1f-9370-9100e02c69d6,jimmy is wrong,jimmy,,False,False,False,False,1.0,False
+a762535e-22f3-4b25-9b22-b494ef168081,jimmy turn on the fireplace,jimmy,,True,True,True,True,1.0,False
+880da412-7546-4769-bf74-582e160df8ba,"jimmy, ask tom to turn on the fireplace",tom,,False,False,False,False,1.0,False
+aa0aa251-bac7-4aa1-8846-0e498eb0e04f,"jimmy, ask tom to turn on the fireplace",jimmy,,True,True,True,True,1.0,False
+e668a48d-e5e5-4efe-a613-17e2baea575c,"tom, tell jimmy that you are doing good jimmy",jimmy,,False,False,False,False,1.0,False
+07180910-9c27-4474-818c-5a1aeb0046b0,you are doing good jimmy,jimmy,,True,True,True,True,1.0,False
+7a1d4bf0-596e-48cf-bcae-f87558031929,"tom, tell jimmy that turn the lights on please jimmy",jimmy,,False,False,False,False,1.0,False
+866d8da3-e1d3-4845-9baa-1ef178c3d6c4,turn the lights on please jimmy,jimmy,,True,True,True,True,1.0,False
+7d5cd9e1-e221-4725-bd0c-cc6ed7bbe304,"I want to call you tom, jimmy",jimmy,,True,True,True,True,1.0,False
+cecf7867-60dc-4c7c-b9df-c7adb9f628dc,"jimmy, I want to call you tom",jimmy,,True,True,True,True,1.0,False
+915f1cbe-0849-49f8-900c-1b9b7089f1cc,"jimmy, I want to call you tom",tom,,False,False,False,False,1.0,False
+078d7e89-74f1-49f1-9162-466ecac9d469,sorry jimmy,jimmy,,True,True,True,True,1.0,False
+ada487b7-4ad1-4c1b-8dfb-a51811396a8d,"jimmy, I got it",jimmy,,True,True,True,True,1.0,False
+3e054ac1-4f2e-432c-b553-7eaf1c6395e3,okay jimmy,jimmy,,True,True,True,True,1.0,False
+407e95d7-bccd-4086-a988-1b2b72d468ca,You can say okay jimmy to turn off the alarm,jimmy,,False,False,False,False,1.0,False
+961b3dff-c952-47c6-928a-f05a688f470c,you can let jimmy set a timer by saying set a timer for 1 minute jimmy,jimmy,,False,False,False,False,1.0,False
+ecc12c4b-c1be-42ad-9d8b-1ca443f0e692,set a timer for 1 minute jimmy,jimmy,,True,True,True,True,1.0,False
+f606ef6a-3e9f-4c24-94d9-8749305db575,count down 30 seconds jimmy,jimmy,,True,True,True,True,1.0,False
+9da5f0ca-fdfe-4e79-b69f-a7d36eee4b55,you can call jimmy by saying hello jimmy,jimmy,,False,False,False,False,1.0,False
+789de02d-c10f-4a90-a1db-4ea4d7019c06,hello jimmy,jimmy,,True,False,True,True,0.6666666666666666,False
+ac03ff2b-9a14-43f9-9b74-a31c9096533b,"you can call her by saying ""hello jimmy""",jimmy,,False,False,False,False,1.0,False
+de6b98a0-0223-4629-84c1-024f3a556225,you can say hello jimmy to call her,jimmy,,False,False,False,False,1.0,False
+fdce905f-b3f9-44a1-a976-eb9d8f984591,say hello jimmy to call her,jimmy,,False,False,False,False,1.0,False
+74295c09-8c1d-4a29-b745-3f746b0e3518,you can try saying hello to jimmy,jimmy,,False,False,False,False,1.0,False
+adcc477e-0569-481c-b3d1-513dfc6692a4,you can try saying hello jimmy to jimmy,jimmy,,False,False,False,False,1.0,False
+6ed429ad-4381-4c07-8508-62c76bd4b072,try saying okay jimmy to jimmy,jimmy,,False,False,False,False,1.0,False
+b7ccac08-7048-4588-a3e3-1d8f3c7cba9d,you can call her jimmy if you want,jimmy,,False,False,False,False,1.0,False
+a34e3674-a276-4dec-b8ca-9038d3a4a634,she is called jimmy,jimmy,,False,False,False,False,1.0,False
+84ff5bc3-0f14-4090-8cb8-b11067c8ea26,"jimmy, she is also called jimmy",jimmy,,True,True,True,True,1.0,False
+3f8a7933-deeb-4e99-ba22-266076eba586,"jimmy, what a beautiful name",jimmy,,True,False,True,True,0.6666666666666666,False
+fdf4ab4d-2493-4c41-9347-322adfc070da,there is a girl called jimmy,jimmy,,False,False,False,False,1.0,False
+12a00ab4-bbfe-40a8-aa47-8cfaed53d89f,Kim what is our progress?,Kim,,True,True,True,True,1.0,False
+49984f6d-7d6e-4432-86b6-0600789a3d4a,Kim is happy this project is almost done.,Kim,,False,False,False,False,1.0,False
+3432f133-320d-43cd-b02c-3b5679233743,Joe says he is almost done collecting data.,Joe,,False,False,False,False,1.0,False
+b937b193-d35d-4749-8a23-2822948f8042,Joe how is your final project going?,Joe,,True,True,True,True,1.0,False
+e9e1e938-8f21-4476-bb82-5d66a7897f30,Joe is working on his paper with Zoe.,Zoe,,False,False,False,False,1.0,False
+812fd327-1f5b-45b6-a686-f02bdfa6e8c0,John can you order me an energy drink from CVS so I can finish this project?,John,,True,True,True,True,1.0,False
+23169de4-7be0-4571-a8d9-065f190c5abd,John order an energy drink.,John,,True,True,True,True,1.0,False
+d0c7c2f9-8fae-4a28-aab5-d9f93ed44301,Joe is that your sister Zoe?,Joe,,True,True,True,True,1.0,False
+ad57afb8-b415-440d-8602-1e8ae09860db,John will order an energy drink.,John,,False,False,False,False,1.0,False
+4edc9535-9668-4d7d-80cf-346f242f7d59,Zoe you must be the luck guy.,Zoe,,True,True,True,True,1.0,False
+81442299-a5cf-42e4-9784-d7fbe660bed6,Tom where is my phone?,Tom,,True,True,True,True,1.0,False
+fa3be58e-b297-4577-b911-e43834ffb4f5,Find my phone Tom.,Tom,,True,True,True,True,1.0,False
+07857465-86b3-4e81-acde-6066cd543eac,Tom will find my phone.,Tom,,False,False,False,False,1.0,False
+8018d3d8-341b-4ecd-93fe-601a2a84a362,The cat stole my phone Tom.,Tom,,True,True,True,True,1.0,False
+ab218f15-9721-4242-858e-ab66635917cb,Are the cats hungry Mike?,Mike,,True,True,True,True,1.0,False
+e48c39af-3ab4-405c-aa46-b3e7332fc6af,Mike thinks the cats are hungry.,Mike,,False,False,False,False,1.0,False
+0fe838c2-954f-49c6-a045-3124aa6b0dab,Should Mike buy cat food?,Mike,,False,False,False,False,1.0,False
+feb2e844-1c62-41af-9547-b030b55d2544,Buy cat food Mike.,Mike,,True,True,True,True,1.0,False
+f996ce78-1fd9-49b1-bbd8-5a515f5af0ea,Mike buy cat food.,Mike,,True,True,True,True,1.0,False
+edf6893a-b3fb-4a04-9321-5c2ca6d30880,Mike will buy cat food.,Mike,,False,False,False,False,1.0,False
+9bbdf821-b4e6-4d6c-9a6d-7cc0cfdc2e7f,Did any packages get delivered Marvin?,Marvin,,True,True,True,True,1.0,False
+5259af4b-2d3d-47db-a5a1-da753595bea9,Marvin are there any packages?,Marvin,,True,True,True,True,1.0,False
+17dc0da6-22f8-4706-bcb5-c75c40e0673b,Marvin can tell me when my package will be delivered.,Marvin,,False,False,False,False,1.0,False
+90623de8-cd1e-409f-b841-52224d0bc56d,Marvin said no package has been delivered yet.,Marvin,,False,False,False,False,1.0,False
+d0678490-0daa-4ce0-b5f4-310893f5f7e9,Kate did my energy drink get picked up by the DoorDash driver?,Kate,,True,True,True,True,1.0,False
+6113855e-88cf-413c-87fe-4521f171ffe3,Kate said it has been picked up.,Kate,,False,False,False,False,1.0,False
+53e08026-5458-4e91-9319-826259ce6a50,Kate said my drink was delivered.,Kate,,False,False,False,False,1.0,False
+d65ca217-4b2c-44bf-b5fc-b16733693749,How many more of these do we need Joey?,Joey,,True,True,True,True,1.0,False
+1e310c47-7633-4c6d-b5dc-c183040503b9,Joey said we are almost there.,Joey,,False,False,False,False,1.0,False
+82d8de7b-0d95-4b09-86fe-1b682ab96f7c,"Luke is excited to reach 1,000 sentences.",Luke,,False,False,False,False,1.0,False
+e0a5d667-044b-4adf-a060-924f8e6d0292,Luke what grade do you think our project will get?,Luke,,True,True,True,True,1.0,False
+65b182a2-a01d-45e0-abc2-8785b9d88ea4,Pete add my work schedule to my Google calendar.,Pete,,True,True,True,True,1.0,False
+8fec3dc7-a7d9-48cb-911e-be1630273f94,What do I have on my calendar for tomorrow Pete?,Pete,,True,True,True,True,1.0,False
+b9e4b404-398f-414e-9d43-96f4f8202dea,Pete am I available for lunch tomorrow?,Pete,,True,True,True,True,1.0,False
+1d16ea69-7864-488e-99a2-fa59fe2a993c,According to Pete I have a busy day.,Pete,,False,False,False,False,1.0,False
+8375580a-1633-45b0-be88-1daa269760d6,Are we almost finished collecting data Kim?,KIm,,True,True,True,True,1.0,False
+aa31150b-74f2-4983-99f4-efe451ce7321,Check the tracking on my Amazon package Marvin.,Marvin,,True,True,True,True,1.0,False
+68bede29-9f5b-4b73-9f2f-aa112aaabffa,Pete said I'm busy tomorrow.,Pete,,False,False,False,False,1.0,False
+c08b0243-ae07-4d80-aba9-8492f71c5ba9,Pete can you meet with Lisa tomorrow?,Pete,,True,True,True,True,1.0,False
+f2e063e2-33d7-48e1-9298-1e36f932e0f2,Lisa wants to meet with Pete.,Lisa,,False,False,False,False,1.0,False
+01cc8292-6d41-4817-a492-45ec19f3846c,Pete and Lisa will meet tomorrow.,Pete,,False,False,False,False,1.0,False
+d587be7c-aca6-45f4-9c4a-f3d8010b82ed,What time is our report due Kenny?,Kenny,,True,True,True,True,1.0,False
+37fb6e4c-8f8d-4bc1-a05e-e96e6933f5ef,Kenny said our report is due at 11:59pm.,Kenn,,False,False,False,False,1.0,False
+5b2d60e3-71cd-4cd9-9b0d-cd189b0a61f4,Kenny said our report is due at 11:59pm.,Kenny,,False,False,False,False,1.0,False
+032f6e05-7c34-40bd-a263-739ff1febdc0,Joe wrote a best-seller book.,Joe,,False,False,False,False,1.0,False
+5262eafd-0865-41a4-bfb5-5987abb65924,Writing is Joe's talent.,Joe,,False,False,False,False,1.0,False
+a9b712b9-ddba-4994-b44f-99fdfa454bce,Joe do you like to write?,Joe,,True,True,True,True,1.0,False
+a0e7bcd6-8557-4f6e-b612-3522e1b53938,Joe said he would much rather play video games.,Joe,,False,False,False,False,1.0,False
+d0654931-a860-4e5f-a703-6a6a77654c53,Do you have a PS5 Joe?,Joe,,True,True,True,True,1.0,False
+46963d5c-ccc3-46e4-8e55-398156e194d6,Joe bought a PS5 yesterday.,Joe,,False,False,False,False,1.0,False
+7df8a283-6377-4492-ab2c-6f3d4ef08ec3,What games do you play Joe?,Joe,,True,True,True,True,1.0,False
+1ace2536-bd16-4db2-8544-c17387001666,Joe's favorite game is Crash Bandicoot.,Joe,,False,False,False,False,1.0,False
+4119cd28-70a9-4d4b-a9ad-266ded817c12,Joe turn the volume down so you don't wake up the cats.,Joe,,True,True,True,True,1.0,False
+60a89dc2-b38c-408f-a199-86f7617f2a12,Joe is going to wake up the cats playing video games.,Joe,,False,False,False,False,1.0,False
+19cfeeb0-e574-48fd-9952-d4f2df109e18,Don't wake up the cats Joe.,Joe,,True,True,True,True,1.0,False
+0ec2de87-06be-4cd3-a8fb-9e0923256485,Elizabeth do you like cookies?,Elizabeth,,True,True,True,True,1.0,False
+cb36c295-74b7-41d0-9eab-c74f33f5c6a8,Elizabeth is very picky about her cookies.,Elizabeth,,False,False,False,False,1.0,False
+e66fdb5f-9e72-426c-852b-fcc74473daa5,Elizabeth will only eat Chunky Chips Ahoy.,Elizabeth,,False,False,False,False,1.0,False
+2ad65e2f-b18b-4a83-a041-68cadad1856e,Can you grab me some cookies Elizabeth.,Elizabeth,,True,True,True,True,1.0,False
+e90faeac-c977-4c61-9103-cc515ee9f92f,All the cookies were eaten by Elizabeth.,Elizabeth,,False,False,False,False,1.0,False
+6d099f5d-78df-4bf2-804a-8961139efd3f,Tommy can't wait to finish collecting data.,Tommy,,False,False,False,False,1.0,False
+dc75a7d4-95c0-4859-8a95-b1ef4e35ef92,Tommy are you excited to be finished collecting data?,Tommy,,True,True,True,True,1.0,False
+41d79d5c-f12e-4a32-85c0-602091dcef63,After you finish collecting data Tommy you need to annotate it.,Tommy,,True,True,True,True,1.0,False
+4120e76f-0a65-4a1e-acce-89168e34d507,Tommy will annotate the data afterwards.,Tommy,,False,False,False,False,1.0,False
+1bbfbb2e-ebfb-49f9-ae95-81fd33b3fd23,Tommy thinks it is really easy to annotate the data.,Tommy,,False,False,False,False,1.0,False
+f329efe9-5f76-4fb7-92fd-b75c8fe3f6ee,Don't forget to message the bot to sync the data Tommy.,Tommy,,True,True,True,True,1.0,False
+9cbe85c9-da0c-48c0-bdf4-d7b2840b999c,Tommy will need to sync the data.,Tommy,,False,False,False,False,1.0,False
+6f571429-053a-49f7-bbd9-23496c921a85,Do you want a drink Ben?,Ben,,True,True,True,True,1.0,False
+725af1c0-4221-4333-bf85-610c2ca1bc61,Ben are you thirsty?,Ben,,True,True,True,True,1.0,False
+38e90d67-0f50-4fed-b9bb-af79d75b713b,Liza can you get Ben a drink?,Liza,,True,True,True,True,1.0,False
+aee9b618-7d91-4bb6-8ffc-8d9cf384bd46,Feel free to get something for yourself Liza.,Liz,,True,True,True,True,1.0,False
+36047942-3354-4249-90de-5f689436c403,Feel free to get something for yourself Liza.,Liza,,True,True,True,True,1.0,False
+b90b6f5b-0100-468f-b894-5d15e93ec73b,Ben also wants a snack from the kitchen.,Ben,,False,False,False,False,1.0,False
+c0b944c5-b514-4984-aef9-ebf15a57bd73,Tell Ben not to eat too much before dinner.,Ben,,False,False,False,False,1.0,False
+b2bfa45b-3357-4449-8193-369db34c3a98,We should be almost done Johnny.,Johnny,,True,True,True,True,1.0,False
+2460653c-1636-4a66-b34e-d98a8db78996,Johnny is running out of sentence ideas.,Johnny,,False,False,False,False,1.0,False
+fcac32a9-3f2c-4e29-91de-23c2118e0b15,Do you want to get a coffee sometime Ana?,Ana,,True,True,True,True,1.0,False
+a55ec975-354b-4efd-89b8-11590ab25117,Ana says she loves coffee.,Ana,,False,False,False,False,1.0,False
+387a2b21-6a4c-4b6a-9d25-6f212b5cd9c6,I heard Mike and Ana are going to get coffee.,Ana,,False,False,False,False,1.0,False
+5df70013-6252-4ed2-a127-bc94bc49b2e7,Ana needs someone to watch her dog.,Ana,,False,False,False,False,1.0,False
+e4b9a525-ad01-416f-b078-763d73c78d4e,Tim can you watch Ana's dog?,Tim,,True,True,True,True,1.0,False
+9ac48de5-aee3-4420-a31e-dd1b4638206d,It is easy to watch the dog Tim.,Tim,,True,True,True,True,1.0,False
+b58a1b99-c0b5-446c-920e-ef283538ac87,Tim you will need to walk the dog.,Tim,,True,True,True,True,1.0,False
+d119802a-ed41-4bfb-a134-b042b044af6d,Can you walk the dog Tim?,Tim,,True,True,True,True,1.0,False
+5b1b0148-8fde-4f20-a8a5-f4d387191dd0,Tim will also need to feed the dog.,Tim,,False,False,False,False,1.0,False
+3c720d5a-0933-4c35-a5f0-2a63efeb546f,Does the dog have food Tim?,Tim,,True,True,True,True,1.0,False
+f0e0289c-a3c7-4ac3-a97b-87c82ab298e1,Tim feed the dog.,Tim,,True,True,True,True,1.0,False
+49244f9d-8fe9-4e71-90c1-b5a52ae98013,Ana left money for dog food Tim.,Ana,,False,False,False,False,1.0,False
+d6d83bcc-2738-4a12-8b91-5ae267f38329,Ana left money for dog food Tim.,Tim,,True,True,True,True,1.0,False
+f0050a83-14ec-4e6e-8332-dcee33a39804,We are so close to being done Amy.,Amy,,True,True,True,True,1.0,False
+bdfa5c38-55a6-4170-8f8b-ba8f5aca492c,Amy is excited to be done collecting data.,Amy,,False,False,False,False,1.0,False
+8a7a3c27-b2e5-4d75-8c18-36a2f60cc070,We should have a party after we finish the project Kim.,Kim,,True,True,True,True,1.0,False
+a410785e-58fa-4df5-aab4-3515efef3791,Kim wants to have a party after the project is done.,KIm,,False,False,False,False,1.0,False
+6d0b2efc-66d5-4b3f-a158-96a82afc8ccf,Kim wants to have a party after the project is done.,Kim,,False,False,False,False,1.0,False
+e6f674fa-0546-4e6f-8bab-596534fd1061,How are my stocks doing Richard?,Richard,,True,True,True,True,1.0,False
+89d09e1e-e114-4da1-84b5-6ee368187f18,Richard did my stocks make any money today?,Richard,,True,True,True,True,1.0,False
+bf887d37-1513-486e-a8d3-690f2ab9dd6b,Cash out my stocks Richard.,Richard,,True,True,True,True,1.0,False
+acdca000-706d-4f9c-8710-acdc501efbf7,Richard will cash out my stocks.,Richard,,False,False,False,False,1.0,False
+fd8de68f-0386-4f01-8dd4-4920c0155988,Venmo me some money Luke.,Luke,,True,True,True,True,1.0,False
+6a2b482d-c243-46df-8152-edf8aacb7935,Luke can you send me money?,Luke,,True,True,True,True,1.0,False
+09b4b9ce-2029-4e03-9835-87bfeb2df704,Luke owes me money.,Luke,,False,False,False,False,1.0,False
+e0f9bf65-d303-4c71-86bf-ac96e0533b1e,Luke never paid me from yesterday.,Luke,,False,False,False,False,1.0,False
+96eb60ff-84ad-4856-9a53-ad3d414e2341,Tomorrow is pay day Kate.,Kate,,True,True,True,True,1.0,False
+9697039e-4c3d-47fd-a99e-a18204ef367b,Kate is excited for pay day.,Kate,,False,False,False,False,1.0,False
+0ef5cd74-09ea-4261-8d26-d418bafa5016,Kate likes getting paid.,Kate,,False,False,False,False,1.0,False
